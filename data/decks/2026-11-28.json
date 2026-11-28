@@ -1,0 +1,1205 @@
+{
+  "id": "2026-11-28",
+  "date": "2026-11-28",
+  "status": "published",
+  "publish_at": "2026-11-28T08:45:00+09:00",
+  "published_at": "2026-11-28T23:41:41+09:00",
+  "type": "funding",
+  "sector": [
+    "ai"
+  ],
+  "region": [
+    "global"
+  ],
+  "companies": [
+    {
+      "name": "Sierra",
+      "name_ko": "시에라",
+      "website": "sierra.ai"
+    }
+  ],
+  "related": [],
+  "title": {
+    "ko": "반년 만에 몸값 2배, 시에라",
+    "en": "Sierra Hits $30B: Value Doubled Within Six Months"
+  },
+  "subtitle": {
+    "ko": "AI 고객응대 에이전트 시에라, 45억에서 300억 달러까지의 투자 여정",
+    "en": "Sierra's funding journey from a $4.5B to a $30B valuation"
+  },
+  "summary": {
+    "ko": "브렛 테일러와 클레이 베이버가 세운 AI 고객응대 에이전트 기업 시에라가 2026년 11월 23일 기업가치 300억 달러에 17억5000만 달러 규모 시리즈F를 발표했다.",
+    "en": "On November 23, 2026, Sierra, the AI customer-service agent company co-founded by Bret Taylor and Clay Bavor, announced a $1.75 billion Series F at a $30 billion valuation."
+  },
+  "hashtags": [
+    "시에라",
+    "Sierra",
+    "AI에이전트",
+    "브렛테일러",
+    "시리즈F",
+    "스타트업투자",
+    "고객서비스AI"
+  ],
+  "slides": [
+    {
+      "kind": "cover",
+      "media_id": "m1",
+      "cites": [
+        "f1",
+        "f11",
+        "f12",
+        "f63"
+      ],
+      "ko": {
+        "heading": "반년 만에 몸값 2배, 시에라",
+        "body": "AI 고객응대 에이전트 기업 시에라가 기업가치 300억 달러로 17억5000만 달러 시리즈F를 유치한다.",
+        "bullets": [],
+        "stats": [],
+        "timeline": [],
+        "quote": {
+          "text": "",
+          "speaker": ""
+        }
+      },
+      "en": {
+        "heading": "Sierra Hits $30B: Value Doubled Within Six Months",
+        "body": "Sierra, which builds AI agents for customer service, is raising a $1.75 billion Series F at a $30 billion valuation.",
+        "bullets": [],
+        "stats": [],
+        "timeline": [],
+        "quote": {
+          "text": "",
+          "speaker": ""
+        }
+      }
+    },
+    {
+      "kind": "hook",
+      "media_id": "",
+      "cites": [
+        "f1",
+        "f11",
+        "f12",
+        "f2",
+        "f63"
+      ],
+      "ko": {
+        "heading": "300억 달러, 약 반년 만에 두 배",
+        "body": "2026년 11월 23일, 시에라가 기업가치 300억 달러에 17억5000만 달러 규모 시리즈F를 발표했다. 직전 라운드 이후 약 반년 만에, TechCrunch 기준 기업가치가 약 두 배가 됐다. 투자 주도는 그리노크스와 라이트스피드 벤처 파트너스.",
+        "bullets": [
+          "기존 리드 투자자 전원 재투자",
+          "벤치마크·세쿼이아·그리노크스·GV·타이거글로벌",
+          "2023년 설립된 고객응대 AI 에이전트 기업"
+        ],
+        "stats": [],
+        "timeline": [],
+        "quote": {
+          "text": "",
+          "speaker": ""
+        }
+      },
+      "en": {
+        "heading": "$30B, Roughly Doubled in About Six Months",
+        "body": "On November 23, 2026, Sierra announced a $1.75 billion Series F at a $30 billion valuation, roughly doubling its value about six months after its previous round, per TechCrunch. Greenoaks and Lightspeed Venture Partners are leading.",
+        "bullets": [
+          "Every previous lead investor is investing again",
+          "Benchmark, Sequoia, Greenoaks, GV and Tiger Global",
+          "Founded in 2023 to build customer-service AI agents"
+        ],
+        "stats": [],
+        "timeline": [],
+        "quote": {
+          "text": "",
+          "speaker": ""
+        }
+      }
+    },
+    {
+      "kind": "people",
+      "media_id": "m2",
+      "cites": [
+        "f63",
+        "f80",
+        "f81",
+        "f94",
+        "f93",
+        "f132",
+        "f129",
+        "f130"
+      ],
+      "ko": {
+        "heading": "구글에서 만난 두 베테랑",
+        "body": "브렛 테일러와 클레이 베이버는 구글에서 처음 만났다. 2023년 함께 시에라를 세웠다. 테일러는 세일즈포스 공동 CEO를 지냈고, 지금은 오픈AI 이사회 의장이다.",
+        "bullets": [
+          "테일러: 구글 지도 출시 기여, 페이스북 CTO 역임",
+          "테일러: 큅 창업, 2016년 세일즈포스에 7억5000만 달러 매각",
+          "베이버: 구글 VR·구글 랩스 이끌고 지메일·드라이브 담당"
+        ],
+        "stats": [],
+        "timeline": [],
+        "quote": {
+          "text": "",
+          "speaker": ""
+        }
+      },
+      "en": {
+        "heading": "Two Veterans Who Met at Google",
+        "body": "Bret Taylor and Clay Bavor first met at Google and founded Sierra together in 2023. Taylor was co-CEO of Salesforce and is now chair of OpenAI's board.",
+        "bullets": [
+          "Taylor: helped launch Google Maps, served as Facebook CTO",
+          "Taylor: founded Quip, sold to Salesforce for $750M in 2016",
+          "Bavor: led Google VR and Google Labs, managed Gmail and Drive"
+        ],
+        "stats": [],
+        "timeline": [],
+        "quote": {
+          "text": "",
+          "speaker": ""
+        }
+      }
+    },
+    {
+      "kind": "story",
+      "media_id": "m6",
+      "cites": [
+        "f64",
+        "f7",
+        "f65",
+        "f8",
+        "f85",
+        "f47",
+        "f95",
+        "f96"
+      ],
+      "ko": {
+        "heading": "결과를 내야 돈을 받는다",
+        "body": "시에라의 AI 에이전트는 기업 내부 시스템에 연결돼 문의에 답하고 필요한 절차까지 처리한다. 과금 기준은 사용량이나 토큰이 아닌 결과. 문제 해결, 대출 실행, 보험금 지급, 구독 해지 방지 같은 성과다.",
+        "bullets": [
+          "고스트라이터: 에이전트를 만들고 테스트·배포하는 ‘AI 만드는 AI’",
+          "회사 측: 매출 400억 달러+ 미국 소매업체, 첫 미팅 27일 만에 가동",
+          "오픈AI·앤트로픽 등 여러 모델을 엮은 ‘모델 별자리’"
+        ],
+        "stats": [],
+        "timeline": [],
+        "quote": {
+          "text": "",
+          "speaker": ""
+        }
+      },
+      "en": {
+        "heading": "Paid Only When the Problem Is Solved",
+        "body": "Sierra's AI agents connect to a company's internal systems, answer inquiries and carry out the needed procedures. It charges for outcomes, not usage or tokens: a problem resolved, a loan executed, an insurance claim paid, a cancellation prevented.",
+        "bullets": [
+          "Ghostwriter: an 'AI to build AI' that builds, tests, deploys agents",
+          "Per Sierra: a $40B+ revenue US retailer went from first meeting to live agent in 27 days",
+          "A 'constellation of models', including OpenAI and Anthropic"
+        ],
+        "stats": [],
+        "timeline": [],
+        "quote": {
+          "text": "",
+          "speaker": ""
+        }
+      }
+    },
+    {
+      "kind": "stats",
+      "media_id": "",
+      "cites": [
+        "f1",
+        "f68",
+        "f69",
+        "f70",
+        "f14",
+        "f79"
+      ],
+      "ko": {
+        "heading": "숫자로 본 시에라",
+        "body": "ARR(연간 반복 매출, 매년 반복해 들어오는 매출)이 1억에서 2억 달러가 되는 데 6개월, 4억 달러로 두 배가 되는 데는 5개월이 걸렸다. 회사 측 수치로는 성장 속도가 빨라지는 중.",
+        "bullets": [],
+        "stats": [
+          {
+            "value": "300억 달러",
+            "label": "기업가치 (2026년 11월)"
+          },
+          {
+            "value": "4억 달러+",
+            "label": "ARR (2026년 10월 30일 공개)"
+          },
+          {
+            "value": "1억5000만 달러+",
+            "label": "2026년 3분기에만 늘어난 ARR"
+          },
+          {
+            "value": "약 50%",
+            "label": "거래 중인 포춘 50 기업 비율"
+          }
+        ],
+        "timeline": [],
+        "quote": {
+          "text": "",
+          "speaker": ""
+        }
+      },
+      "en": {
+        "heading": "Sierra by the Numbers",
+        "body": "ARR (annual recurring revenue) took six months to grow from $100M to $200M, but only five months to double to $400M. By Sierra's own figures, growth is speeding up.",
+        "bullets": [],
+        "stats": [
+          {
+            "value": "$30B",
+            "label": "Valuation (November 2026)"
+          },
+          {
+            "value": "$400M+",
+            "label": "ARR (disclosed October 30, 2026)"
+          },
+          {
+            "value": "$150M+",
+            "label": "ARR added in Q3 2026 alone"
+          },
+          {
+            "value": "~50%",
+            "label": "Share of the Fortune 50 it serves"
+          }
+        ],
+        "timeline": [],
+        "quote": {
+          "text": "",
+          "speaker": ""
+        }
+      }
+    },
+    {
+      "kind": "timeline",
+      "media_id": "",
+      "cites": [
+        "f63",
+        "f112",
+        "f121",
+        "f107",
+        "f108",
+        "f90",
+        "f1"
+      ],
+      "ko": {
+        "heading": "45억에서 300억 달러까지",
+        "body": "라운드마다 커진 투자 규모와 기업가치.",
+        "bullets": [],
+        "stats": [],
+        "timeline": [
+          {
+            "when": "2023년",
+            "what": "브렛 테일러·클레이 베이버 공동 창업"
+          },
+          {
+            "when": "2024년 2월",
+            "what": "1억1000만 달러 유치 (세쿼이아·벤치마크 주도)"
+          },
+          {
+            "when": "2024년 10월",
+            "what": "1억7500만 달러 유치, 기업가치 45억 달러"
+          },
+          {
+            "when": "2025년 9월",
+            "what": "3억5000만 달러 유치, 기업가치 100억 달러"
+          },
+          {
+            "when": "2026년 5월",
+            "what": "CNBC 보도: 9억5000만 달러, 기업가치 158억 달러"
+          },
+          {
+            "when": "2026년 11월 23일",
+            "what": "17억5000만 달러 시리즈F, 기업가치 300억 달러"
+          }
+        ],
+        "quote": {
+          "text": "",
+          "speaker": ""
+        }
+      },
+      "en": {
+        "heading": "From $4.5B to $30B",
+        "body": "Each round grew bigger, and so did the valuation.",
+        "bullets": [],
+        "stats": [],
+        "timeline": [
+          {
+            "when": "2023",
+            "what": "Co-founded by Bret Taylor and Clay Bavor"
+          },
+          {
+            "when": "February 2024",
+            "what": "Raised $110M, led by Sequoia and Benchmark"
+          },
+          {
+            "when": "October 2024",
+            "what": "Raised $175M at a $4.5B valuation"
+          },
+          {
+            "when": "September 2025",
+            "what": "Raised $350M at a $10B valuation"
+          },
+          {
+            "when": "May 2026",
+            "what": "Per CNBC: $950M at a $15.8B post-money valuation"
+          },
+          {
+            "when": "November 23, 2026",
+            "what": "$1.75B Series F at a $30B valuation"
+          }
+        ],
+        "quote": {
+          "text": "",
+          "speaker": ""
+        }
+      }
+    },
+    {
+      "kind": "quote",
+      "media_id": "",
+      "cites": [
+        "f43",
+        "f6"
+      ],
+      "ko": {
+        "heading": "“에이전트는 새로운 디지털 정문”",
+        "body": "시에라는 AI 에이전트가 모든 기업의 ‘디지털 정문’이 될 것이라는 믿음으로 세워졌다고 말한다. 테일러가 링크드인에 남긴 말.",
+        "bullets": [],
+        "stats": [],
+        "timeline": [],
+        "quote": {
+          "text": "에이전트는 새로운 디지털 정문입니다. 지금 우리는 포춘 50대 기업의 약 50%와 함께 에이전트를 만들고 있습니다.",
+          "speaker": "브렛 테일러, 시에라 공동창업자 (링크드인)"
+        }
+      },
+      "en": {
+        "heading": "\"Agents Are the New Digital Front Door\"",
+        "body": "Sierra says it was founded on the belief that AI agents would become every company's digital front door. Taylor wrote this on LinkedIn.",
+        "bullets": [],
+        "stats": [],
+        "timeline": [],
+        "quote": {
+          "text": "Agents are the new digital front door, and we're now building them with almost 50% of the Fortune 50",
+          "speaker": "Bret Taylor, co-founder of Sierra (on LinkedIn)"
+        }
+      }
+    },
+    {
+      "kind": "lesson",
+      "media_id": "",
+      "cites": [
+        "f7",
+        "f16",
+        "f10",
+        "f4",
+        "f48",
+        "f79",
+        "f105",
+        "f89"
+      ],
+      "ko": {
+        "heading": "시에라에게 배울 3가지",
+        "body": "테일러 스스로도 2026년 5월 CNBC에 2년 안에 시장 조정이 올 것으로 내다봤다. 반년 만의 두 배 몸값은 성장의 신호일 뿐, 수익의 증명은 아니다.",
+        "bullets": [
+          "결과 과금으로 고객의 성과와 회사 매출을 한 방향에",
+          "보수적인 고객이 무기: 1784년 설립 BNY도 고객",
+          "ARR·고객 수는 회사 자체 발표 수치, 검증은 별개"
+        ],
+        "stats": [],
+        "timeline": [],
+        "quote": {
+          "text": "",
+          "speaker": ""
+        }
+      },
+      "en": {
+        "heading": "Three Lessons From Sierra",
+        "body": "In May 2026, Taylor himself told CNBC he expected a market correction within two years. A valuation that doubles in six months signals momentum, not proof of returns.",
+        "bullets": [
+          "Outcome pricing ties customer results to company revenue",
+          "Conservative clients as an asset: BNY, founded 1784, is one",
+          "ARR and customer counts are self-reported, not independently verified"
+        ],
+        "stats": [],
+        "timeline": [],
+        "quote": {
+          "text": "",
+          "speaker": ""
+        }
+      }
+    },
+    {
+      "kind": "video",
+      "media_id": "m9",
+      "cites": [
+        "f92"
+      ],
+      "ko": {
+        "heading": "브렛 테일러가 직접 말하는 시에라",
+        "body": "CNBC 인터뷰 영상. 오픈AI 의장이자 시에라 공동창업자인 브렛 테일러가 AI 에이전트 스타트업 시에라에 대해 이야기한다.",
+        "bullets": [],
+        "stats": [],
+        "timeline": [],
+        "quote": {
+          "text": "",
+          "speaker": ""
+        }
+      },
+      "en": {
+        "heading": "Bret Taylor on Sierra, in His Own Words",
+        "body": "In this CNBC interview, Bret Taylor, OpenAI chairman and Sierra co-founder, talks about his AI agent startup Sierra.",
+        "bullets": [],
+        "stats": [],
+        "timeline": [],
+        "quote": {
+          "text": "",
+          "speaker": ""
+        }
+      }
+    },
+    {
+      "kind": "takeaway",
+      "media_id": "m5",
+      "cites": [
+        "f50",
+        "f56",
+        "f106"
+      ],
+      "ko": {
+        "heading": "다음 무대: 유럽·아시아, 그리고 언젠가 IPO",
+        "body": "보도에 따르면 새 자금은 유럽·아시아 확장과 영업·고객 생애가치 영역으로의 에이전트 확대에 쓰인다. 테일러는 2026년 5월 IPO는 ‘분명히 우리 미래에 있다’면서도 당분간은 비상장이 유리하다고 봤다.",
+        "bullets": [
+          "2026년 11월 13일 개인 에이전트 프로토콜 1.0 공개",
+          "한 줄 요약: 결과로 증명하는 AI가 판을 키운다"
+        ],
+        "stats": [],
+        "timeline": [],
+        "quote": {
+          "text": "",
+          "speaker": ""
+        }
+      },
+      "en": {
+        "heading": "Next Stop: Europe, Asia and Maybe an IPO",
+        "body": "Reportedly, the new money will fund European and Asian expansion and push its agents into sales and customer lifetime value. In May 2026 Taylor said an IPO is \"definitely in our future\" but that staying private is an advantage for now.",
+        "bullets": [
+          "Released Personal Agent Protocol 1.0 on November 13, 2026",
+          "One line: AI that proves itself in outcomes grows the market"
+        ],
+        "stats": [],
+        "timeline": [],
+        "quote": {
+          "text": "",
+          "speaker": ""
+        }
+      }
+    },
+    {
+      "kind": "sources",
+      "media_id": "",
+      "cites": [],
+      "ko": {},
+      "en": {}
+    }
+  ],
+  "facts": [
+    {
+      "id": "f1",
+      "claim": "On November 23, 2026, Sierra announced it is raising $1.75 billion at a valuation of $30 billion, led by Greenoaks and Lightspeed Venture Partners.",
+      "quote": "We’re raising $1.75 billion at a valuation of $30 billion, led by Greenoaks and Lightspeed Venture Partners.",
+      "category": "funding",
+      "event_date": "2026-11-23",
+      "source_id": "s1",
+      "corroborated_by": [
+        "cmswire.com",
+        "sierra.ai"
+      ]
+    },
+    {
+      "id": "f11",
+      "claim": "On November 23, 2026, Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said it raised $1.75 billion in a Series F round that doubles its valuation to $30 billion.",
+      "quote": "said on Monday that it has raised $1.75 billion in a Series F round that doubles the company’s valuation to $30 billion",
+      "category": "funding",
+      "event_date": "2026-11-23",
+      "source_id": "s2",
+      "corroborated_by": [
+        "cmswire.com",
+        "techcrunch.com"
+      ]
+    },
+    {
+      "id": "f12",
+      "claim": "Sierra's Series F came within six months of its previous round, which valued the company at $15 billion, according to TechCrunch.",
+      "quote": "The new raise comes within six months of its previous round, which valued the company at $15 billion.",
+      "category": "valuation",
+      "event_date": "2026-11-23",
+      "source_id": "s2",
+      "corroborated_by": [
+        "cmswire.com",
+        "techcrunch.com"
+      ]
+    },
+    {
+      "id": "f63",
+      "claim": "Sierra was co-founded in 2023 by OpenAI board chair Bret Taylor and former Google executive Clay Bavor, and builds AI agents that handle companies' customer service work.",
+      "quote": "2023년 오픈AI 이사회 의장 브렛 테일러와 구글 임원 출신 클레이 베이버가 공동 설립한 시에라는 기업의 고객 응대 업무를 수행하는 AI 에이전트를 개발한다.",
+      "category": "founding",
+      "event_date": "2023",
+      "source_id": "s6",
+      "corroborated_by": [
+        "aitimes.com",
+        "cmswire.com",
+        "wowtale.net"
+      ]
+    },
+    {
+      "id": "f2",
+      "claim": "According to Sierra, all of its previous lead investors (Benchmark, Sequoia, Greenoaks, GV and Tiger Global) are investing again in its Series F.",
+      "quote": "all our previous lead investors — Benchmark, Sequoia, Greenoaks, GV, and Tiger Global — are doubling down on Sierra",
+      "category": "funding",
+      "event_date": "2026-11-23",
+      "source_id": "s1",
+      "corroborated_by": [
+        "sierra.ai"
+      ]
+    },
+    {
+      "id": "f80",
+      "claim": "Sierra was founded in 2023 by Bret Taylor and Clay Bavor, who first met at Google.",
+      "quote": "시에라는 2023년 브렛 테일러(Bret Taylor)와 클레이 베이버(Clay Bavor)가 세웠다.",
+      "category": "founding",
+      "event_date": "2023",
+      "source_id": "s7",
+      "corroborated_by": [
+        "aitimes.com",
+        "cmswire.com",
+        "wowtale.net"
+      ]
+    },
+    {
+      "id": "f81",
+      "claim": "Bret Taylor was co-CEO of Salesforce and is chair of OpenAI's board, while Clay Bavor led VR and Google Labs at Google.",
+      "quote": "테일러는 세일즈포스 공동 CEO를 지냈고 오픈AI 이사회 의장을 맡고 있으며, 베이버는 구글에서 VR과 구글 랩스를 이끌었다.",
+      "category": "people",
+      "event_date": "",
+      "source_id": "s7",
+      "corroborated_by": [
+        "wowtale.net"
+      ]
+    },
+    {
+      "id": "f94",
+      "claim": "Sierra's founders met at Google, where Taylor is largely credited with helping create Google Maps and Bavor led virtual reality efforts and Google Labs.",
+      "quote": "The Sierra founders met at Google, where Taylor was largely credited with helping create Google Maps and Bavor led virtual reality efforts and Google Labs.",
+      "category": "people",
+      "event_date": "",
+      "source_id": "s8",
+      "corroborated_by": [
+        "cnbc.com"
+      ]
+    },
+    {
+      "id": "f93",
+      "claim": "Bret Taylor was also chief technology officer at Facebook and chairman of Twitter when Elon Musk bought it.",
+      "quote": "Taylor was also chief technology officer at Facebook, and chairman of Twitter when Elon Musk bought the social media network.",
+      "category": "people",
+      "event_date": "",
+      "source_id": "s8",
+      "corroborated_by": [
+        "cnbc.com"
+      ]
+    },
+    {
+      "id": "f132",
+      "claim": "Bret Taylor is widely credited with helping launch Google Maps.",
+      "quote": "At Google, Taylor is widely credited with helping to launch Google Maps.",
+      "category": "people",
+      "event_date": "",
+      "source_id": "s10",
+      "corroborated_by": [
+        "techcrunch.com"
+      ]
+    },
+    {
+      "id": "f129",
+      "claim": "Bret Taylor spent nearly a decade at Salesforce and founded Quip, which Salesforce bought for $750 million in the summer of 2016.",
+      "quote": "Taylor spent nearly a decade at Salesforce, and years ago founded Quip, which Salesforce bought for $750 million in the summer of 2016.",
+      "category": "people",
+      "event_date": "2016",
+      "source_id": "s10",
+      "corroborated_by": [
+        "techcrunch.com"
+      ]
+    },
+    {
+      "id": "f130",
+      "claim": "Clay Bavor managed Gmail, Google Drive and other consumer-facing products at Google.",
+      "quote": "Bavor managed Gmail and Google Drive at Google, among other consumer-facing products.",
+      "category": "people",
+      "event_date": "",
+      "source_id": "s10",
+      "corroborated_by": [
+        "techcrunch.com"
+      ]
+    },
+    {
+      "id": "f64",
+      "claim": "Sierra's agents connect to companies' internal systems to answer inquiries and also carry out the procedures needed for customer requests.",
+      "quote": "기업 내부 시스템과 연결해 문의에 답하고, 고객 요청에 필요한 절차까지 처리하는 서비스다.",
+      "category": "product",
+      "event_date": "",
+      "source_id": "s6",
+      "corroborated_by": [
+        "aitimes.com"
+      ]
+    },
+    {
+      "id": "f7",
+      "claim": "Sierra charges customers for outcomes, such as a resolved problem, rather than for usage or tokens.",
+      "quote": "We charge for outcomes, not usage or tokens — a problem resolved, a loan originated, a driver onboarded, an insurance claim paid, a subscriber saved.",
+      "category": "product",
+      "event_date": "",
+      "source_id": "s1",
+      "corroborated_by": [
+        "sierra.ai"
+      ]
+    },
+    {
+      "id": "f65",
+      "claim": "Sierra charges based on outcomes rather than usage or token counts, billing on results such as resolved customer issues, loan executions, insurance payouts and prevented subscription cancellations.",
+      "quote": "고객 문제 해결과 대출 실행, 보험금 지급, 구독 해지 방지 등 기업이 얻은 결과를 과금 기준으로 삼는다.",
+      "category": "product",
+      "event_date": "",
+      "source_id": "s6",
+      "corroborated_by": [
+        "aitimes.com"
+      ]
+    },
+    {
+      "id": "f8",
+      "claim": "Sierra's platform includes Ghostwriter, which it calls its 'AI to build AI'. Ghostwriter builds, tests and deploys agents based on goals and guardrails that customers set.",
+      "quote": "you define the goals and guardrails and Ghostwriter (our AI to build AI) will build, test, and deploy your agents",
+      "category": "product",
+      "event_date": "",
+      "source_id": "s1",
+      "corroborated_by": [
+        "sierra.ai"
+      ]
+    },
+    {
+      "id": "f85",
+      "claim": "Sierra's Ghostwriter is an 'AI that builds AI' that creates, tests, deploys and improves agents from a company's goals and guidelines.",
+      "quote": "고스트라이터(Ghostwriter)라는 ‘AI를 만드는 AI’가 에이전트를 만들고 테스트·배포하고, 이후 대화를 검토하며 개선까지 맡는 플랫폼이다.",
+      "category": "product",
+      "event_date": "",
+      "source_id": "s7",
+      "corroborated_by": [
+        "wowtale.net"
+      ]
+    },
+    {
+      "id": "f47",
+      "claim": "Sierra said an unnamed large US retailer with more than $40 billion in revenue went from first meeting to a live agent in 27 days using its Ghostwriter tool.",
+      "quote": "It said a large US retailer with more than $40 billion in revenue went from first meeting to a live agent in 27 days using Ghostwriter, Sierra's tool for building, testing and deploying agents.",
+      "category": "customer",
+      "event_date": "",
+      "source_id": "s5",
+      "corroborated_by": [
+        "cmswire.com"
+      ]
+    },
+    {
+      "id": "f95",
+      "claim": "Sierra sells AI customer service agents built on foundational models from OpenAI and Anthropic.",
+      "quote": "Sierra sells AI customer service agents and is positioning itself as a leader in a new class of software companies built on top of foundational models from OpenAI and Anthropic.",
+      "category": "product",
+      "event_date": "",
+      "source_id": "s8",
+      "corroborated_by": [
+        "cnbc.com"
+      ]
+    },
+    {
+      "id": "f96",
+      "claim": "According to Bret Taylor, Sierra uses a \"constellation of models\" together with its own fine-tuned proprietary layers.",
+      "quote": "According to Taylor, the company leverages a \"constellation of models\" alongside its own fine-tuned proprietary layers.",
+      "category": "product",
+      "event_date": "",
+      "source_id": "s8",
+      "corroborated_by": [
+        "cnbc.com"
+      ]
+    },
+    {
+      "id": "f68",
+      "claim": "On October 30, 2026, Sierra disclosed that its annual recurring revenue (ARR) had surpassed $400 million.",
+      "quote": "회사가 지난달 30일 공개한 연간 반복 매출(ARR)은 4억달러를 넘어섰다.",
+      "category": "revenue",
+      "event_date": "2026-10-30",
+      "source_id": "s6",
+      "corroborated_by": [
+        "aitimes.com",
+        "cmswire.com"
+      ]
+    },
+    {
+      "id": "f69",
+      "claim": "According to Sierra, its ARR took six months to grow from $100 million to $200 million, but only five months to double to $400 million.",
+      "quote": "시에라에 따르면 ARR이 1억달러에서 2억달러로 늘어나는 데 6개월이 걸렸지만, 4억달러까지 두 배로 증가하는 데는 5개월이 걸렸다.",
+      "category": "revenue",
+      "event_date": "2026",
+      "source_id": "s6",
+      "corroborated_by": [
+        "aitimes.com",
+        "cmswire.com"
+      ]
+    },
+    {
+      "id": "f70",
+      "claim": "Sierra added more than $150 million in ARR in the third quarter of 2026 alone, exceeding its total ARR increase for all of 2025.",
+      "quote": "3분기에 추가한 ARR만 1억5000만달러 이상으로, 지난해 전체 증가분을 웃돌았다.",
+      "category": "revenue",
+      "event_date": "2026",
+      "source_id": "s6",
+      "corroborated_by": [
+        "aitimes.com",
+        "cmswire.com"
+      ]
+    },
+    {
+      "id": "f14",
+      "claim": "Sierra said it serves almost 50% of Fortune 50 companies.",
+      "quote": "Sierra said that it currently serves almost 50% of Fortune 50 companies",
+      "category": "customer",
+      "event_date": "2026-11",
+      "source_id": "s2",
+      "corroborated_by": [
+        "cmswire.com",
+        "techcrunch.com"
+      ]
+    },
+    {
+      "id": "f79",
+      "claim": "Wowtale notes that Sierra's $400 million ARR and customer count are figures disclosed by the company itself.",
+      "quote": "ARR 4억 달러와 고객 수는 회사가 직접 밝힌 수치다.",
+      "category": "other",
+      "event_date": "2026-11",
+      "source_id": "s7",
+      "corroborated_by": [
+        "aitimes.com",
+        "cmswire.com",
+        "sierra.ai",
+        "siliconangle.com",
+        "techcrunch.com",
+        "wowtale.net"
+      ]
+    },
+    {
+      "id": "f112",
+      "claim": "Sierra raised $110 million in a round that closed in February 2024, led by Sequoia and Benchmark.",
+      "quote": "including $110 million that closed in February of last year led by Sequoia and Benchmark",
+      "category": "funding",
+      "event_date": "2024-02",
+      "source_id": "s9",
+      "corroborated_by": [
+        "techcrunch.com"
+      ]
+    },
+    {
+      "id": "f121",
+      "claim": "In October 2024, Sierra raised $175 million in a funding round that valued the startup at $4.5 billion.",
+      "quote": "has raised $175 million in a funding round that values the startup at $4.5 billion",
+      "category": "funding",
+      "event_date": "2024-10-28",
+      "source_id": "s10",
+      "corroborated_by": [
+        "techcrunch.com"
+      ]
+    },
+    {
+      "id": "f107",
+      "claim": "Sierra, which helps enterprises build customer service AI agents, announced on September 4, 2025 that it raised a $350 million funding round.",
+      "quote": "Sierra, which helps enterprises build customer service AI agents, announced it raised a $350 million funding round on Thursday.",
+      "category": "funding",
+      "event_date": "2025-09-04",
+      "source_id": "s9",
+      "corroborated_by": [
+        "techcrunch.com",
+        "wowtale.net"
+      ]
+    },
+    {
+      "id": "f108",
+      "claim": "Sierra's $350 million round in September 2025 was led by earlier investor Greenoaks Capital and valued the startup at $10 billion, according to a company blog post that confirmed an earlier Axios report.",
+      "quote": "The round, led by earlier investor Greenoaks Capital, values the startup at $10 billion, according to a company blog post that confirmed an earlier report from Axios on Wednesday.",
+      "category": "valuation",
+      "event_date": "2025-09-04",
+      "source_id": "s9",
+      "corroborated_by": [
+        "techcrunch.com",
+        "wowtale.net"
+      ]
+    },
+    {
+      "id": "f90",
+      "claim": "CNBC reported on 2026-05-04 that Sierra raised $950 million in fresh capital at a $15.8 billion post-money valuation, led by Tiger Global and Google's GV.",
+      "quote": "The San Francisco-based company brought in $950 million in fresh capital at a $15.8 billion post-money valuation, led by Tiger Global and Google's GV.",
+      "category": "funding",
+      "event_date": "2026-05-04",
+      "source_id": "s8",
+      "corroborated_by": [
+        "cnbc.com"
+      ]
+    },
+    {
+      "id": "f43",
+      "claim": "Co-founder Bret Taylor wrote on LinkedIn that Sierra is building agents with almost 50% of the Fortune 50.",
+      "quote": "\"Agents are the new digital front door, and we're now building them with almost 50% of the Fortune 50,\" co-founder Bret Taylor wrote on LinkedIn.",
+      "category": "quote",
+      "event_date": "2026-11-23",
+      "source_id": "s5",
+      "corroborated_by": [
+        "cmswire.com",
+        "techcrunch.com"
+      ]
+    },
+    {
+      "id": "f6",
+      "claim": "Sierra says it was founded on the belief that AI agents would become the digital front door for every company.",
+      "quote": "We founded Sierra in the belief that AI agents would become the digital front door for every company, deepening their relationships with customers and opening up new growth opportunities.",
+      "category": "vision",
+      "event_date": "",
+      "source_id": "s1",
+      "corroborated_by": [
+        "sierra.ai"
+      ]
+    },
+    {
+      "id": "f16",
+      "claim": "In late October 2026, Sierra said its outcome-based pricing model helped it double its run-rate revenue to $400 million within five months.",
+      "quote": "The company late last month said its outcome-based pricing model has helped it double its run-rate revenue to $400 million within five months.",
+      "category": "revenue",
+      "event_date": "2026-10",
+      "source_id": "s2",
+      "corroborated_by": [
+        "cmswire.com",
+        "techcrunch.com"
+      ]
+    },
+    {
+      "id": "f10",
+      "claim": "Sierra acknowledged worries about an AI bubble but said its experience points the other way, with old, heavily regulated companies deploying AI the fastest.",
+      "quote": "We’re seeing some of the oldest, most regulated companies in the world deploy AI the fastest — deepening their customer relationships, generating efficiencies, and driving growth.",
+      "category": "vision",
+      "event_date": "2026-11-23",
+      "source_id": "s1",
+      "corroborated_by": [
+        "sierra.ai"
+      ]
+    },
+    {
+      "id": "f4",
+      "claim": "Sierra's customers include long-established firms such as BNY, Cigna, JPMorganChase, Pearson, Wells Fargo, Santander, HSBC, Prudential Financial, Singtel and Cox Automotive.",
+      "quote": "BNY (1784), Cigna (1792), JPMorganChase (1799), Pearson (1844), Wells Fargo (1852), Santander (1857), Sutter Health (1858), Guardian (1860), Next (1864), HSBC (1865)",
+      "category": "customer",
+      "event_date": "2026-11",
+      "source_id": "s1",
+      "corroborated_by": [
+        "sierra.ai"
+      ]
+    },
+    {
+      "id": "f48",
+      "claim": "CMSWire noted that all of Sierra's figures are self-reported and that Sierra is privately held.",
+      "quote": "All figures are self-reported by Sierra in its Nov.",
+      "category": "other",
+      "event_date": "2026-11-23",
+      "source_id": "s5",
+      "corroborated_by": [
+        "cmswire.com"
+      ]
+    },
+    {
+      "id": "f105",
+      "claim": "Bret Taylor expected a market correction within two years and warned that too much capital produces too many companies.",
+      "quote": "When there's this much authentic excitement about a market, you end up with too much capital, and too many companies,",
+      "category": "quote",
+      "event_date": "2026-05",
+      "source_id": "s8",
+      "corroborated_by": [
+        "cnbc.com"
+      ]
+    },
+    {
+      "id": "f89",
+      "claim": "Wowtale says it remains to be seen how Sierra's valuation, which doubled in six months, will be judged amid AI bubble concerns.",
+      "quote": "반년 만에 두 배가 된 기업가치가 AI 거품 논란 속에서 어떻게 평가받을지는 앞으로 지켜볼 대목이다.",
+      "category": "other",
+      "event_date": "2026-11",
+      "source_id": "s7",
+      "corroborated_by": [
+        "wowtale.net"
+      ]
+    },
+    {
+      "id": "f92",
+      "claim": "As of May 2026, Sierra had been founded three years earlier by OpenAI chairman and former Salesforce co-CEO Bret Taylor together with former Google executive Clay Bavor.",
+      "quote": "The startup was founded three years ago by OpenAI chairman and former Salesforce co-CEO Bret Taylor, with former Google executive Clay Bavor.",
+      "category": "founding",
+      "event_date": "2023",
+      "source_id": "s8",
+      "corroborated_by": [
+        "cmswire.com",
+        "cnbc.com"
+      ]
+    },
+    {
+      "id": "f50",
+      "claim": "Sierra's new capital will fund European and Asian expansion and extend its AI agents into sales and customer lifetime value optimization.",
+      "quote": "New capital will fund European and Asian expansion and extend AI agents into sales and customer lifetime value optimization.",
+      "category": "vision",
+      "event_date": "2026-11-23",
+      "source_id": "s5",
+      "corroborated_by": [
+        "cmswire.com"
+      ]
+    },
+    {
+      "id": "f56",
+      "claim": "On November 13, 2026, Sierra released Personal Agent Protocol 1.0 with eight design partners including Meta, Shopify, Stripe and Walmart.",
+      "quote": "13 released Personal Agent Protocol 1.0 with eight design partners including Meta, Shopify, Stripe and Walmart.",
+      "category": "product",
+      "event_date": "2026-11-13",
+      "source_id": "s5",
+      "corroborated_by": [
+        "cmswire.com"
+      ]
+    },
+    {
+      "id": "f106",
+      "claim": "Bret Taylor said an IPO is \"definitely in our future\" for Sierra, but he sees staying private as an advantage for now.",
+      "quote": "Taylor said an IPO is \"definitely in our future,\" but views being private as an advantage and a buffer while they go through the growing pains of rapid scaling.",
+      "category": "vision",
+      "event_date": "2026-05",
+      "source_id": "s8",
+      "corroborated_by": [
+        "cnbc.com"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "n": 1,
+      "url": "https://sierra.ai/blog/series-f-30b",
+      "title": "Series F (Building the digital front door)",
+      "publisher": "Sierra",
+      "published": "2026-11-23",
+      "tier": "official",
+      "sha256": "675cf8bdc65a598d65ba0b74411f9cc0612adfcc45f94862c7d5f122daec5672"
+    },
+    {
+      "id": "s2",
+      "n": 2,
+      "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+      "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+      "publisher": "TechCrunch",
+      "published": "2026-11-23",
+      "tier": "tier1",
+      "sha256": "d8c6f3b94bcb02ee2a7410d4884572738bdaefb66a6e340b54992c3f027efb4e"
+    },
+    {
+      "id": "s6",
+      "n": 3,
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217747",
+      "title": "고객 서비스 AI 기업 시에라, 17.5억달러 투자 유치...기업가치 두 배로",
+      "publisher": "AI타임스",
+      "published": "2026-11-24",
+      "tier": "tier2",
+      "sha256": "e9d088eeeac728ce32ab9d6869498a6fd8cf7e5e13ca956b14109908ef559ec2"
+    },
+    {
+      "id": "s7",
+      "n": 4,
+      "url": "https://wowtale.net/2026/11/24/268540/",
+      "title": "고객 서비스 AI 시에라, 17.5억 달러 투자유치...가치 300억 달러",
+      "publisher": "와우테일",
+      "published": "2026-11-24",
+      "tier": "tier3",
+      "sha256": "8f938b4ea063245b0fa5a3cfbd2a36fa861cda8a5d86dbda200b75b2708519b1"
+    },
+    {
+      "id": "s8",
+      "n": 5,
+      "url": "https://www.cnbc.com/2026/05/04/bret-taylor-sierra-fundraise-openai.html",
+      "title": "Bret Taylor's Sierra raises nearly $1 billion months after last capital push",
+      "publisher": "CNBC",
+      "published": "2026-05-04",
+      "tier": "tier1",
+      "sha256": "1beacff20d1c4e95f627219e93f830ddc2d865df3ebcd878f1f3165a3e7074d0"
+    },
+    {
+      "id": "s10",
+      "n": 6,
+      "url": "https://techcrunch.com/2024/10/28/bret-taylors-customer-service-ai-startup-just-raised-175m/",
+      "title": "Bret Taylor's customer service AI startup just raised $175M",
+      "publisher": "TechCrunch",
+      "published": "2024-10-28",
+      "tier": "tier1",
+      "sha256": "c99cb9d0bafd0eb020f0ab4cd087917aec745a9b1e467c40d383f40aaccb5656"
+    },
+    {
+      "id": "s5",
+      "n": 7,
+      "url": "https://www.cmswire.com/contact-center/sierra-hits-30b-valuation-on-175b-series-f/",
+      "title": "Sierra Hits $30 Billion Valuation on $1.75 Billion Series F",
+      "publisher": "Simpler Media Group, Inc.",
+      "published": "2026-11-23",
+      "tier": "tier3",
+      "sha256": "ff758a08f9eaf3a81fb5095bf219b584e2977ceca73e79196725d0f33994161e"
+    },
+    {
+      "id": "s9",
+      "n": 8,
+      "url": "https://techcrunch.com/2025/09/04/bret-taylors-sierra-raises-350m-at-a-10b-valuation/",
+      "title": "Bret Taylor's Sierra raises $350M at a $10B valuation",
+      "publisher": "TechCrunch",
+      "published": "2025-09-04",
+      "tier": "tier1",
+      "sha256": "6aee2f33fcfb80ca287d8698050201c40aa23cd4b91102c71ca4beaf08e09603"
+    }
+  ],
+  "media": [
+    {
+      "id": "m1",
+      "kind": "image",
+      "src": "media/2026-11-28/m1.jpg",
+      "width": 1200,
+      "height": 630,
+      "alt": "Series F (Building the digital front door)",
+      "credit": "Image: Sierra",
+      "license": "© Sierra - used with attribution, linked to source",
+      "source_url": "https://sierra.ai/blog/series-f-30b",
+      "origin": "official",
+      "title": "Series F (Building the digital front door)"
+    },
+    {
+      "id": "m2",
+      "kind": "image",
+      "src": "media/2026-11-28/m2.jpg",
+      "width": 1600,
+      "height": 1600,
+      "alt": "Headshot of Bret Taylor",
+      "credit": "Image: Sierra",
+      "license": "© Sierra - used with attribution, linked to source",
+      "source_url": "https://sierra.ai/blog/series-f-30b",
+      "origin": "official",
+      "title": "Series F (Building the digital front door)"
+    },
+    {
+      "id": "m5",
+      "kind": "image",
+      "src": "media/2026-11-28/m5.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "\"Sharing a draft of Personal Agent Protocol\" on a blurry green background",
+      "credit": "Image: Sierra",
+      "license": "© Sierra - used with attribution, linked to source",
+      "source_url": "https://sierra.ai/blog/series-f-30b",
+      "origin": "official",
+      "title": "Series F (Building the digital front door)"
+    },
+    {
+      "id": "m6",
+      "kind": "image",
+      "src": "media/2026-11-28/m6.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "Better Customer Experiences Built on Sierra",
+      "credit": "Image: Sierra",
+      "license": "© Sierra - used with attribution, linked to source",
+      "source_url": "https://sierra.ai/blog/series-f-30b",
+      "origin": "official",
+      "title": "Series F (Building the digital front door)"
+    },
+    {
+      "id": "m9",
+      "kind": "youtube",
+      "src": "AcYNv3NvkZ0",
+      "width": 1280,
+      "height": 720,
+      "alt": "Sierra co-founder Bret Taylor on AI agent startup: We want to make our customers successful",
+      "credit": "Video: CNBC Television",
+      "license": "YouTube embed",
+      "source_url": "https://www.youtube.com/watch?v=AcYNv3NvkZ0",
+      "origin": "youtube",
+      "title": "Sierra co-founder Bret Taylor on AI agent startup: We want to make our customers successful"
+    }
+  ],
+  "factcheck": {
+    "passed": true,
+    "rounds": 3,
+    "checked_at": "2026-11-27T17:15:46+09:00",
+    "facts_verified": 133,
+    "facts_rejected": 0,
+    "sources_used": 8,
+    "sources_fetched": 9,
+    "llm_verdict": "pass",
+    "summary": "The deck passes with no blockers. The core facts check out against the cited sources in both languages: the $1.75B Series F at a $30B valuation led by Greenoaks and Lightspeed, the five returning lead investors, the doubling from $15B within six months, the funding timeline ($110M, $175M at $4.5B, $350M at $10B, $950M at $15.8B per CNBC), the ARR figures with their self-reported caveat, and the founder biographies. Uncertain items are properly hedged. There are five minor issues: the Slide 3 English title is too narrow, the LinkedIn attribution on Slide 6 is unclear and '약 50%' is looser than 'almost 50%', the Slide 8 video description has no supporting citation, 'Maybe an IPO' on Slide 9 understates Taylor's 'definitely' and differs from the Korean, and the Slide 9 one-line summary reads as a causal claim rather than interpretation. Note that TechCrunch (Sept 2025) said Sierra was founded in early 2024; the deck's '2023' follows the newer AI타임스, 와우테일 and CNBC reporting.",
+    "issues": [
+      {
+        "slide": 3,
+        "lang": "en",
+        "text": "Paid Only When the Problem Is Solved",
+        "problem": "misleading",
+        "severity": "minor",
+        "explanation": "Sierra charges for a range of outcomes (loan originated, insurance claim paid, subscriber saved), not only solved problems. The title narrows the model, while the Korean title ('결과를 내야 돈을 받는다') is broader.",
+        "fix": "Change to 'Paid Only for Outcomes' or 'Paid When Results Are Delivered' to match the Korean title and f7/f65."
+      },
+      {
+        "slide": 6,
+        "lang": "both",
+        "text": "Sierra says it was founded on the belief that AI agents would become every company's digital front door. Taylor wrote this on LinkedIn.",
+        "problem": "misleading",
+        "severity": "minor",
+        "explanation": "The founding-belief statement comes from Sierra's blog (f6), not LinkedIn. Only the quote below is from Taylor's LinkedIn post (f43). Putting 'this' right after the blog statement blurs the attribution. Also, the Korean quote renders 'almost 50%' as '약 50%', which is slightly looser.",
+        "fix": "Rephrase: 'The quote below is from Taylor's LinkedIn post.' / '아래는 테일러가 링크드인에 남긴 말.' In the Korean quote, use '50% 가까이' or '50%에 육박하는' for 'almost 50%'."
+      },
+      {
+        "slide": 8,
+        "lang": "both",
+        "text": "In this CNBC interview, Bret Taylor ... talks about his AI agent startup Sierra.",
+        "problem": "unsupported",
+        "severity": "minor",
+        "explanation": "The only cited fact (f92) covers who founded Sierra and their titles. Nothing cited confirms the existence or content of the CNBC interview video.",
+        "fix": "Cite the video's source or metadata (CNBC, date), or describe the video in general terms that match the cited material."
+      },
+      {
+        "slide": 9,
+        "lang": "en",
+        "text": "Next Stop: Europe, Asia and Maybe an IPO",
+        "problem": "translation_mismatch",
+        "severity": "minor",
+        "explanation": "Taylor said an IPO is 'definitely in our future' (f106). 'Maybe' understates this and differs from the Korean '언젠가 IPO' (someday an IPO).",
+        "fix": "Change to 'Next Stop: Europe, Asia and Someday an IPO'."
+      },
+      {
+        "slide": 9,
+        "lang": "both",
+        "text": "One line: AI that proves itself in outcomes grows the market / 결과로 증명하는 AI가 판을 키운다",
+        "problem": "overclaim",
+        "severity": "minor",
+        "explanation": "This is an editorial causal claim that the cited facts do not establish. It is acceptable only if clearly framed as interpretation.",
+        "fix": "Frame as interpretation, e.g. 'One line: Sierra is betting that outcome-proven AI will grow the market' / '한 줄 요약: 시에라는 결과로 증명하는 AI가 판을 키운다고 베팅한다'."
+      }
+    ],
+    "deterministic_issues": []
+  },
+  "generator": {
+    "agent": "newz",
+    "version": "1.0.0",
+    "backend": "cli",
+    "model": "claude-opus-5-5"
+  }
+}

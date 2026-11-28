@@ -1,0 +1,1266 @@
+{
+  "id": "2026-11-27",
+  "date": "2026-11-27",
+  "status": "published",
+  "publish_at": "2026-11-27T08:45:00+09:00",
+  "published_at": "2026-11-27T18:48:12+09:00",
+  "type": "founder_story",
+  "sector": [
+    "defense",
+    "ai"
+  ],
+  "region": [
+    "kr"
+  ],
+  "companies": [
+    {
+      "name": "Newtype Industries",
+      "name_ko": "뉴타입인더스트리즈",
+      "website": ""
+    }
+  ],
+  "related": [],
+  "title": {
+    "ko": "포대장의 AI, 우크라 전장에 가다",
+    "en": "An Artillery Officer's AI Goes to Ukraine's Front"
+  },
+  "subtitle": {
+    "ko": "뉴타입인더스트리즈 조성원 대표, 야전의 불편을 AI 사격지휘로 바꾸다",
+    "en": "How Newtype Industries' Cho Sengwon turned field pain into AI fire control"
+  },
+  "summary": {
+    "ko": "12년간 포병 장교로 복무한 조성원 대표의 AI 사격지휘 소프트웨어 바바라가 우크라이나 전장 시험에 이어 2026년 11월 날조 기사라는 정보전까지 겪은 이야기.",
+    "en": "Cho Sengwon, an artillery officer for 12 years, built the AI fire-control software BARBARA, tested it in Ukraine, and in November 2026 found his company the subject of a fabricated interview."
+  },
+  "hashtags": [
+    "뉴타입인더스트리즈",
+    "방산스타트업",
+    "국방AI",
+    "우크라이나",
+    "허위정보",
+    "창업스토리",
+    "바바라"
+  ],
+  "slides": [
+    {
+      "kind": "cover",
+      "media_id": "m2",
+      "cites": [
+        "f1",
+        "f42",
+        "f41"
+      ],
+      "ko": {
+        "heading": "포대장의 AI, 우크라 전장에 가다",
+        "body": "포대장 출신 조성원 대표의 뉴타입인더스트리즈. 우크라이나 군부대와 시험한 AI 포병 소프트웨어 바바라 이야기.",
+        "bullets": [],
+        "stats": [],
+        "timeline": [],
+        "quote": {
+          "text": "",
+          "speaker": ""
+        }
+      },
+      "en": {
+        "heading": "An Artillery Officer's AI Goes to Ukraine's Front",
+        "body": "Newtype Industries, founded by former battery commander Cho Sengwon, and BARBARA, the AI artillery software it tested with Ukrainian military units.",
+        "bullets": [],
+        "stats": [],
+        "timeline": [],
+        "quote": {
+          "text": "",
+          "speaker": ""
+        }
+      }
+    },
+    {
+      "kind": "hook",
+      "media_id": "",
+      "cites": [
+        "f57",
+        "f82",
+        "f62",
+        "f58",
+        "f94",
+        "f59",
+        "f63"
+      ],
+      "ko": {
+        "heading": "가짜 인터뷰의 표적이 된 한국 스타트업",
+        "body": "2026년 11월 5일, 디플로맷에 뉴타입 대표의 발언을 담았다는 기사가 실렸다. 외교 갈등 탓에 우크라이나 시험이 멈췄다는 내용. 11월 19일 디플로맷은 그 인터뷰가 날조됐다고 밝혔다.",
+        "bullets": [
+          "배경: 북한군 포로 정보 공개를 둘러싼 한-우크라 갈등",
+          "디플로맷: 기자의 이메일, 러시아발일 가능성",
+          "조 대표: 시험은 한 번도 중단된 적 없다"
+        ],
+        "stats": [],
+        "timeline": [],
+        "quote": {
+          "text": "",
+          "speaker": ""
+        }
+      },
+      "en": {
+        "heading": "A Korean startup, targeted by a fake interview",
+        "body": "On November 5, 2026, The Diplomat ran an article claiming to quote Newtype's CEO: a Seoul–Kyiv diplomatic row had halted its Ukraine trials. On November 19, 2026, The Diplomat said the interview was fabricated.",
+        "bullets": [
+          "Backdrop: a Korea–Ukraine row over disclosure of North Korean POWs",
+          "The Diplomat: the journalist's emails likely came from Russia",
+          "Cho: our testing was never suspended"
+        ],
+        "stats": [],
+        "timeline": [],
+        "quote": {
+          "text": "",
+          "speaker": ""
+        }
+      }
+    },
+    {
+      "kind": "people",
+      "media_id": "m1",
+      "cites": [
+        "f1",
+        "f68",
+        "f2",
+        "f19",
+        "f15"
+      ],
+      "ko": {
+        "heading": "육사, 포병 12년, 그리고 포대장",
+        "body": "조성원 대표는 육군사관학교를 졸업하고 12년간 포병 병과에서 포대장 등으로 복무했다. 그는 현실과 동떨어진 일을 하는 데 지쳤다고 말한다. 복무 시절의 실전 경험이 곧 창업의 밑천이 됐다.",
+        "bullets": [
+          "창업 멤버도 전방 부대 출신 전문가들",
+          "2025년 6월 명신정보통신에서 스핀오프"
+        ],
+        "stats": [],
+        "timeline": [],
+        "quote": {
+          "text": "",
+          "speaker": ""
+        }
+      },
+      "en": {
+        "heading": "Military academy, 12 years of artillery, battery command",
+        "body": "Cho Sengwon graduated from the Korea Military Academy and served 12 years in the artillery, including as a battery commander. He says he was tired of doing things with no connection to reality. That field experience became the basis of his company.",
+        "bullets": [
+          "Other founding members are also experts from front-line units",
+          "Spun off from Myungshin Information & Communication in June 2025"
+        ],
+        "stats": [],
+        "timeline": [],
+        "quote": {
+          "text": "",
+          "speaker": ""
+        }
+      }
+    },
+    {
+      "kind": "story",
+      "media_id": "m5",
+      "cites": [
+        "f45",
+        "f32",
+        "f47",
+        "f46",
+        "f48"
+      ],
+      "ko": {
+        "heading": "말로 부르는 포격, 바바라",
+        "body": "전방 관측병이 스마트폰으로 표적 위치와 상황을 음성 보고하면, AI가 이를 사격지휘관용 정형화된 디지털 정보로 바꾼다. 88년간 변화 없던 전술 음성통신을 디지털로 옮기는 셈이다.",
+        "bullets": [
+          "좌표 오류나 민간 지역 표적이 의심되면 경고",
+          "여러 표적 자동 처리, 지휘관 의도도 반영",
+          "휴먼 인 더 루프: 최종 타격 결정은 사람이"
+        ],
+        "stats": [],
+        "timeline": [],
+        "quote": {
+          "text": "",
+          "speaker": ""
+        }
+      },
+      "en": {
+        "heading": "Calling for fire by voice: BARBARA",
+        "body": "A forward observer reports target location and situation by voice on a smartphone, and the AI turns it into structured digital data for the fire-direction commander. It digitizes a tactical voice system unchanged for 88 years.",
+        "bullets": [
+          "Warns when coordinates may be wrong or a target looks civilian",
+          "Handles multiple targets and reflects the commander's intent",
+          "Human in the loop: a person makes the final strike decision"
+        ],
+        "stats": [],
+        "timeline": [],
+        "quote": {
+          "text": "",
+          "speaker": ""
+        }
+      }
+    },
+    {
+      "kind": "story",
+      "media_id": "m4",
+      "cites": [
+        "f69",
+        "f66",
+        "f89",
+        "f50",
+        "f52",
+        "f6",
+        "f51",
+        "f8"
+      ],
+      "ko": {
+        "heading": "한국보다 전장이 먼저였다",
+        "body": "조 대표는 창업하자마자 우크라이나에서 시작해야 한다는 걸 알았다고 했다. 이유는 진짜 데이터. 캐나다 컨설팅사 리액션 그룹이 우크라이나군 2개 여단과의 협력을 주선했다. 기술은 해외에서 먼저 인정받았다.",
+        "bullets": [
+          "홈페이지에 협력 대상으로 제92여단 명시",
+          "창업 5개월 만에 미국 법인, 미 육군 적용 테스트",
+          "조 대표 전언: 우크라군 '현 체계에 없는 기능'"
+        ],
+        "stats": [],
+        "timeline": [],
+        "quote": {
+          "text": "",
+          "speaker": ""
+        }
+      },
+      "en": {
+        "heading": "The battlefield came before Korea",
+        "body": "Cho says he knew Ukraine was the place to start as soon as he founded the company. The goal: real data. Canadian consulting firm Reaktion Group arranged cooperation with two Ukrainian brigades. Its technology was recognized abroad first.",
+        "bullets": [
+          "Its website lists Ukraine's 92nd Brigade as a partner",
+          "US entity five months after founding; US Army testing",
+          "Per Cho, Ukrainians said it offered capabilities their systems lack"
+        ],
+        "stats": [],
+        "timeline": [],
+        "quote": {
+          "text": "",
+          "speaker": ""
+        }
+      }
+    },
+    {
+      "kind": "stats",
+      "media_id": "",
+      "cites": [
+        "f33",
+        "f32",
+        "f37",
+        "f49"
+      ],
+      "ko": {
+        "heading": "숫자로 보는 뉴타입",
+        "body": "시장 규모는 회사 측 추산으로, 미군 BCT 59개와 한국군 48개를 타깃으로 잡았다.",
+        "bullets": [],
+        "stats": [
+          {
+            "value": "12년",
+            "label": "조 대표의 포병 장교 복무 기간"
+          },
+          {
+            "value": "88년",
+            "label": "변화 없던 전술 음성통신 체계"
+          },
+          {
+            "value": "69억 달러",
+            "label": "회사가 설정한 전체 시장 규모"
+          },
+          {
+            "value": "5분",
+            "label": "사격 요청 대화 확인 목표 시간"
+          }
+        ],
+        "timeline": [],
+        "quote": {
+          "text": "",
+          "speaker": ""
+        }
+      },
+      "en": {
+        "heading": "Newtype by the numbers",
+        "body": "The market size is the company's own estimate, targeting 59 US Army BCTs and 48 Korean military units.",
+        "bullets": [],
+        "stats": [
+          {
+            "value": "12 years",
+            "label": "Cho's service as an artillery officer"
+          },
+          {
+            "value": "88 years",
+            "label": "Tactical voice comms left unchanged"
+          },
+          {
+            "value": "$6.9 billion",
+            "label": "Total market size set by the company"
+          },
+          {
+            "value": "5 minutes",
+            "label": "Design target to review fire-request talk"
+          }
+        ],
+        "timeline": [],
+        "quote": {
+          "text": "",
+          "speaker": ""
+        }
+      }
+    },
+    {
+      "kind": "timeline",
+      "media_id": "",
+      "cites": [
+        "f15",
+        "f6",
+        "f14",
+        "f28",
+        "f29",
+        "f41",
+        "f57",
+        "f58"
+      ],
+      "ko": {
+        "heading": "스핀오프에서 정보전까지",
+        "body": "시드 투자금과 기업가치는 공개되지 않았다.",
+        "bullets": [],
+        "stats": [],
+        "timeline": [
+          {
+            "when": "2025년 6월",
+            "what": "명신정보통신에서 스핀오프"
+          },
+          {
+            "when": "2025년 11월",
+            "what": "미국 법인 설립"
+          },
+          {
+            "when": "2025년 12월",
+            "what": "블루포인트파트너스·더넥스트랩·명신정보통신 시드 투자"
+          },
+          {
+            "when": "2026년 8월",
+            "what": "우크라이나 군부대와 바바라 시험 보도"
+          },
+          {
+            "when": "2026년 11월 5일",
+            "what": "디플로맷, 대표 인터뷰라는 기사 게재"
+          },
+          {
+            "when": "2026년 11월 19일",
+            "what": "디플로맷, 인터뷰 날조 확인"
+          }
+        ],
+        "quote": {
+          "text": "",
+          "speaker": ""
+        }
+      },
+      "en": {
+        "heading": "From spin-off to information war",
+        "body": "The seed amount and valuation were not disclosed.",
+        "bullets": [],
+        "stats": [],
+        "timeline": [
+          {
+            "when": "June 2025",
+            "what": "Spun off from Myungshin Information & Communication"
+          },
+          {
+            "when": "November 2025",
+            "what": "US entity established"
+          },
+          {
+            "when": "December 2025",
+            "what": "Seed from Bluepoint Partners, The Next Lab, Myungshin"
+          },
+          {
+            "when": "August 2026",
+            "what": "BARBARA reported in testing with Ukrainian units"
+          },
+          {
+            "when": "November 5, 2026",
+            "what": "The Diplomat runs a purported CEO interview"
+          },
+          {
+            "when": "November 19, 2026",
+            "what": "The Diplomat says the interview was fabricated"
+          }
+        ],
+        "quote": {
+          "text": "",
+          "speaker": ""
+        }
+      }
+    },
+    {
+      "kind": "quote",
+      "media_id": "",
+      "cites": [
+        "f70"
+      ],
+      "ko": {
+        "heading": "왜 하필 우크라이나였나",
+        "body": "",
+        "bullets": [],
+        "stats": [],
+        "timeline": [],
+        "quote": {
+          "text": "우리 같은 시스템은 병사들이 실제 압박 속에서 써봐야만 스스로를 증명합니다. 그리고 우크라이나 병사들보다 최근 포병 실전 경험이 많은 이는 없습니다.",
+          "speaker": "조성원 뉴타입인더스트리즈 대표"
+        }
+      },
+      "en": {
+        "heading": "Why Ukraine?",
+        "body": "",
+        "bullets": [],
+        "stats": [],
+        "timeline": [],
+        "quote": {
+          "text": "A system like ours only proves itself when soldiers use it under real pressure, and no one has more recent combat experience in artillery than Ukrainian soldiers.",
+          "speaker": "Sengwon \"Joe\" Cho, CEO of Newtype Industries"
+        }
+      }
+    },
+    {
+      "kind": "lesson",
+      "media_id": "",
+      "cites": [
+        "f18",
+        "f20",
+        "f21",
+        "f73",
+        "f74",
+        "f76",
+        "f77"
+      ],
+      "ko": {
+        "heading": "뉴타입에게 배우는 3가지",
+        "body": "블루포인트파트너스 최원기 수석 심사역은 제품이 기획 단계부터 현장 이해도를 기반으로 한다는 점을 뉴타입의 강점으로 꼽았다.",
+        "bullets": [
+          "내가 겪은 현장의 불편이 곧 제품 기획서",
+          "팔기 전에 먼저 듣고, 신뢰는 한 걸음씩",
+          "전장 검증은 무기이자 정보전의 표적이 된다"
+        ],
+        "stats": [],
+        "timeline": [],
+        "quote": {
+          "text": "",
+          "speaker": ""
+        }
+      },
+      "en": {
+        "heading": "Three lessons from Newtype",
+        "body": "Bluepoint Partners senior investment officer Choi Won-ki called it Newtype's strength that its products are grounded in field understanding from the planning stage.",
+        "bullets": [
+          "The pain you lived in the field can be your product spec",
+          "Listen before you pitch; build trust step by step",
+          "Battlefield proof is an asset, and a target in information war"
+        ],
+        "stats": [],
+        "timeline": [],
+        "quote": {
+          "text": "",
+          "speaker": ""
+        }
+      }
+    },
+    {
+      "kind": "vision",
+      "media_id": "m7",
+      "cites": [
+        "f55",
+        "f81",
+        "f36",
+        "f25",
+        "f80"
+      ],
+      "ko": {
+        "heading": "다음 무대: 드론, 그리고 북유럽",
+        "body": "뉴타입은 바바라를 포병 지휘통제에서 포병과 공격용 드론을 하나의 화력체계로 잇는 방향으로 넓히고 있다. 조 대표는 우크라이나가 유럽 사업의 중심이며 북유럽·발트 국가를 자연스러운 파트너로 본다.",
+        "bullets": [
+          "목표: 2026년 미군 전력화·한국군 시장 진입",
+          "방산 AI 솔루션 3~4가지 추가 준비 중",
+          "2026년 11월 17일 빌뉴스 Land Warfare Europe 연설"
+        ],
+        "stats": [],
+        "timeline": [],
+        "quote": {
+          "text": "",
+          "speaker": ""
+        }
+      },
+      "en": {
+        "heading": "Next: drones and the Nordics",
+        "body": "Newtype is expanding BARBARA from artillery command and control to linking artillery and attack drones in one fire system. Cho says Ukraine remains central to its work in Europe, with Nordic and Baltic countries as natural partners.",
+        "bullets": [
+          "Goal: US military fielding and Korean market entry in 2026",
+          "Preparing 3 to 4 additional defense AI solutions",
+          "Spoke at Land Warfare Europe in Vilnius, November 17, 2026"
+        ],
+        "stats": [],
+        "timeline": [],
+        "quote": {
+          "text": "",
+          "speaker": ""
+        }
+      }
+    },
+    {
+      "kind": "sources",
+      "media_id": "",
+      "cites": [],
+      "ko": {},
+      "en": {}
+    }
+  ],
+  "facts": [
+    {
+      "id": "f1",
+      "claim": "Cho Sengwon, CEO of Newtype Industries, graduated from the Korea Military Academy and served 12 years in the artillery branch, including as a battery commander.",
+      "quote": "육군사관학교 졸업 후 12년간 포병 병과에서 포대장 등으로 복무한 야전 출신 군 전문가다",
+      "category": "people",
+      "event_date": "",
+      "source_id": "s1",
+      "corroborated_by": [
+        "news.mtn.co.kr"
+      ]
+    },
+    {
+      "id": "f42",
+      "claim": "Newtype Industries is a Seoul-headquartered company founded by CEO Cho Sengwon, a former Korean Army artillery officer.",
+      "quote": "뉴타입인더스트리즈는 육군 포병 장교 출신인 조성원 대표가 설립한 회사로, 서울에 본사를 두고 있다.",
+      "category": "founding",
+      "event_date": "",
+      "source_id": "s5",
+      "corroborated_by": [
+        "m.nownews.seoul.co.kr"
+      ]
+    },
+    {
+      "id": "f41",
+      "claim": "According to Ukrainian defense outlet Ukraine's Arms Monitor, as reported on 2026-08-11, Newtype Industries was testing its AI-based artillery target-processing software BARBARA with Ukrainian military units.",
+      "quote": "11일(현지시간) 우크라이나 방산 전문 매체 ‘우크라이나스 암스 모니터’에 따르면 한국 방산 AI 스타트업 뉴타입인더스트리즈는 현재 우크라이나 군부대와 함께 AI 기반 포병 표적 처리 소프트웨어 ‘바바라’(Barbara)를 시험하고 있다.",
+      "category": "event",
+      "event_date": "2026-08-11",
+      "source_id": "s5",
+      "corroborated_by": [
+        "m.nownews.seoul.co.kr",
+        "militarnyi.com",
+        "platum.kr"
+      ]
+    },
+    {
+      "id": "f57",
+      "claim": "On November 5, 2026, The Diplomat published an article that claimed to quote Newtype's CEO on the company's work with Ukrainian partners.",
+      "quote": "On November 5, The Diplomat published an article purporting to quote the CEO of Newtype on his company’s interactions with Ukrainian partners.",
+      "category": "event",
+      "event_date": "2026-11-05",
+      "source_id": "s9",
+      "corroborated_by": [
+        "militarnyi.com",
+        "platum.kr",
+        "thediplomat.com"
+      ]
+    },
+    {
+      "id": "f82",
+      "claim": "According to The Diplomat, as relayed by Militarnyi on 2026-11-06, South Korean defence startup Newtype Industries suspended testing of its BarbaraAI system in Ukraine amid a diplomatic dispute between Ukraine and South Korea.",
+      "quote": "South Korean defence startup Newtype Industries has suspended testing of its BarbaraAI system in Ukraine amid a diplomatic dispute between Ukraine and South Korea.",
+      "category": "event",
+      "event_date": "2026-11-06",
+      "source_id": "s10",
+      "corroborated_by": [
+        "militarnyi.com",
+        "platum.kr"
+      ]
+    },
+    {
+      "id": "f62",
+      "claim": "Cho said the fabricated article's claim that a diplomatic row had stopped Newtype's work was false.",
+      "quote": "A diplomatic row stopping our work was exactly the false claim in the fabricated article.",
+      "category": "quote",
+      "event_date": "2026-11-19",
+      "source_id": "s9",
+      "corroborated_by": [
+        "thediplomat.com"
+      ]
+    },
+    {
+      "id": "f58",
+      "claim": "In a November 19, 2026 follow-up, The Diplomat said the journalist fabricated the interview with Newtype's CEO and may not be who they claimed to be.",
+      "quote": "We now know that the journalist fabricated the interview and may not even be who they claimed to be.",
+      "category": "event",
+      "event_date": "2026-11-19",
+      "source_id": "s9",
+      "corroborated_by": [
+        "thediplomat.com"
+      ]
+    },
+    {
+      "id": "f94",
+      "claim": "The South Korean government accused Ukrainian President Volodymyr Zelensky of publicly disclosing information about the North Korean prisoners and recalled its ambassador.",
+      "quote": "However, the South Korean government accused Ukrainian President Volodymyr Zelensky of publicly disclosing the information and recalled its ambassador.",
+      "category": "other",
+      "event_date": "",
+      "source_id": "s10",
+      "corroborated_by": [
+        "militarnyi.com"
+      ]
+    },
+    {
+      "id": "f59",
+      "claim": "According to The Diplomat, a review of its exchange with the journalist found that the emails likely came from Russia, which suggests the article was part of a disinformation operation.",
+      "quote": "Additional scrutiny of the exchange between the journalist and The Diplomat revealed evidence that the emails likely originated in Russia, suggesting this article was part of a disinformation operation.",
+      "category": "event",
+      "event_date": "2026-11-19",
+      "source_id": "s9",
+      "corroborated_by": [
+        "thediplomat.com"
+      ]
+    },
+    {
+      "id": "f63",
+      "claim": "Cho said Newtype's cooperation with Ukraine has not ended and its testing was never suspended.",
+      "quote": "Our cooperation with Ukraine has not ended, and our testing was never suspended.",
+      "category": "quote",
+      "event_date": "2026-11-19",
+      "source_id": "s9",
+      "corroborated_by": [
+        "thediplomat.com"
+      ]
+    },
+    {
+      "id": "f68",
+      "claim": "Cho served 12 years as an artillery officer in the Korean Army and said he was tired of doing things that had no connection to reality.",
+      "quote": "During my 12 years as an artillery officer in the Korean Army, I was tired of doing things that had no connection to reality.",
+      "category": "people",
+      "event_date": "",
+      "source_id": "s9",
+      "corroborated_by": [
+        "thediplomat.com"
+      ]
+    },
+    {
+      "id": "f2",
+      "claim": "Cho Sengwon founded Newtype Industries based on combat-oriented field experience from his military service.",
+      "quote": "복무 당시 실전 경험을 바탕으로 회사를 설립했다.",
+      "category": "founding",
+      "event_date": "",
+      "source_id": "s1",
+      "corroborated_by": [
+        "news.mtn.co.kr"
+      ]
+    },
+    {
+      "id": "f19",
+      "claim": "Besides Cho Sengwon, Newtype Industries' founding members are experts who came from front-line units.",
+      "quote": "조 대표 외 창업 멤버들도 전방 부대 출신 전문가들로 구성됐다.",
+      "category": "people",
+      "event_date": "",
+      "source_id": "s2",
+      "corroborated_by": [
+        "unicornfactory.co.kr"
+      ]
+    },
+    {
+      "id": "f15",
+      "claim": "Newtype Industries spun off from Myungshin Information & Communication in June 2025.",
+      "quote": "지난 6월 명신정보통신에서 스핀오프한 뉴타입은",
+      "category": "founding",
+      "event_date": "2025-06",
+      "source_id": "s2",
+      "corroborated_by": [
+        "platum.kr",
+        "unicornfactory.co.kr"
+      ]
+    },
+    {
+      "id": "f45",
+      "claim": "With BARBARA, a forward observer reports target location and situation by voice via smartphone, and the AI converts it into structured digital information for the fire-direction commander.",
+      "quote": "전방 관측병이 스마트폰을 이용해 표적 위치와 상황을 음성으로 보고하면 바바라는 이를 AI로 분석해 정형화된 디지털 정보로 변환한다.",
+      "category": "product",
+      "event_date": "",
+      "source_id": "s5",
+      "corroborated_by": [
+        "m.nownews.seoul.co.kr"
+      ]
+    },
+    {
+      "id": "f32",
+      "claim": "Newtype Industries describes its solution as digitizing a tactical voice communication system that had gone unchanged for 88 years.",
+      "quote": "88년간 변화 없던 전술음성통신 체계를 디지털로 전환하는 솔루션이다.",
+      "category": "product",
+      "event_date": "",
+      "source_id": "s3",
+      "corroborated_by": [
+        "platum.kr"
+      ]
+    },
+    {
+      "id": "f47",
+      "claim": "BARBARA warns users when reported coordinates may be wrong or when a target appears to be in a civilian area.",
+      "quote": "보고된 좌표가 잘못됐을 가능성이 있거나 표적이 민간 지역에 있는 것으로 판단되면 이를 사용자에게 경고한다.",
+      "category": "product",
+      "event_date": "",
+      "source_id": "s5",
+      "corroborated_by": [
+        "m.nownews.seoul.co.kr"
+      ]
+    },
+    {
+      "id": "f46",
+      "claim": "BARBARA can process multiple targets automatically and reflects the commander's intent and tactical constraints.",
+      "quote": "여러 표적도 자동으로 처리할 수 있으며 지휘관의 의도와 전술적 제약 조건도 반영한다.",
+      "category": "product",
+      "event_date": "",
+      "source_id": "s5",
+      "corroborated_by": [
+        "m.nownews.seoul.co.kr"
+      ]
+    },
+    {
+      "id": "f48",
+      "claim": "BARBARA uses a 'human in the loop' approach in which the final strike decision remains with the human commander, not the AI.",
+      "quote": "최종 타격 결정권은 인간 지휘관에게 남겨두는 ‘휴먼 인 더 루프’ 방식이다.",
+      "category": "product",
+      "event_date": "",
+      "source_id": "s5",
+      "corroborated_by": [
+        "m.nownews.seoul.co.kr"
+      ]
+    },
+    {
+      "id": "f69",
+      "claim": "Cho said he knew Ukraine was the place to start as soon as he founded Newtype.",
+      "quote": "So as soon as I started this company, I knew Ukraine was the place to start.",
+      "category": "quote",
+      "event_date": "",
+      "source_id": "s9",
+      "corroborated_by": [
+        "thediplomat.com"
+      ]
+    },
+    {
+      "id": "f66",
+      "claim": "Cho said Newtype went to Ukraine to get real battlefield data.",
+      "quote": "For us, it is all about getting real data.",
+      "category": "quote",
+      "event_date": "",
+      "source_id": "s9",
+      "corroborated_by": [
+        "thediplomat.com"
+      ]
+    },
+    {
+      "id": "f89",
+      "claim": "Newtype Industries got access to Ukrainian military units through Canadian consulting firm Reaktion Group, which arranged cooperation with two brigades.",
+      "quote": "The startup gained access to Ukrainian military units with the help of Canadian consulting firm Reaktion Group, which arranged cooperation with two brigades.",
+      "category": "contract",
+      "event_date": "",
+      "source_id": "s10",
+      "corroborated_by": [
+        "militarnyi.com"
+      ]
+    },
+    {
+      "id": "f50",
+      "claim": "As of August 2026, Newtype Industries had been in contact with two Ukrainian military units and received initial feedback from a combat brigade.",
+      "quote": "뉴타입인더스트리즈는 지금까지 우크라이나군 2개 부대와 접촉했으며 전투여단으로부터 초기 피드백을 받았다.",
+      "category": "customer",
+      "event_date": "2026-08",
+      "source_id": "s5",
+      "corroborated_by": [
+        "m.nownews.seoul.co.kr",
+        "militarnyi.com",
+        "platum.kr"
+      ]
+    },
+    {
+      "id": "f52",
+      "claim": "Newtype Industries' website lists Ukraine's 92nd Brigade, formerly the 92nd Mechanized Brigade and now the 92nd Assault Brigade, as a partner.",
+      "quote": "회사 홈페이지에는 협력 대상으로 우크라이나군 제92여단이 명시돼 있다.",
+      "category": "customer",
+      "event_date": "",
+      "source_id": "s5",
+      "corroborated_by": [
+        "m.nownews.seoul.co.kr"
+      ]
+    },
+    {
+      "id": "f6",
+      "claim": "Newtype Industries set up a US entity five months after its founding in June 2025 and, as of April 2026, was being tested for use by the US Army.",
+      "quote": "지난해 6월 창업 이후 5개월 만에 미국 법인을 설립해 현재 미 육군 적용 테스트를 하고 있다.",
+      "category": "event",
+      "event_date": "2025-11",
+      "source_id": "s1",
+      "corroborated_by": [
+        "news.mtn.co.kr",
+        "platum.kr"
+      ]
+    },
+    {
+      "id": "f51",
+      "claim": "According to CEO Cho Sengwon, Ukrainian military officials said BARBARA offered capabilities not present in the systems they currently operate.",
+      "quote": "우크라이나군 관계자들은 바바라에 대해 자신들이 현재 운용하는 체계에는 없는 기능이라는 반응을 보였다고 조 대표는 전했다.",
+      "category": "customer",
+      "event_date": "2026-08",
+      "source_id": "s5",
+      "corroborated_by": [
+        "m.nownews.seoul.co.kr"
+      ]
+    },
+    {
+      "id": "f8",
+      "claim": "Newtype Industries' technology was recognized overseas before it was in Korea.",
+      "quote": "뉴타입 기술력은 해외에서 먼저 인정받았다.",
+      "category": "other",
+      "event_date": "2026-04",
+      "source_id": "s1",
+      "corroborated_by": [
+        "news.mtn.co.kr"
+      ]
+    },
+    {
+      "id": "f33",
+      "claim": "CEO Cho Sengwon of Newtype Industries gained hands-on experience during 12 years of service as an artillery officer.",
+      "quote": "조성원 대표는 포병장교로 12년간 복무하며 실전 경험을 쌓았다.",
+      "category": "people",
+      "event_date": "",
+      "source_id": "s3",
+      "corroborated_by": [
+        "platum.kr"
+      ]
+    },
+    {
+      "id": "f37",
+      "claim": "Newtype Industries puts its total market size at US$6.9 billion, targeting 59 US Army BCTs and 48 Korean military units.",
+      "quote": "시장 규모는 총 69억 달러로, 미군 BCT 59개와 한국군 48개를 타깃으로 설정했다.",
+      "category": "metric",
+      "event_date": "",
+      "source_id": "s3",
+      "corroborated_by": [
+        "platum.kr",
+        "unicornfactory.co.kr"
+      ]
+    },
+    {
+      "id": "f49",
+      "claim": "Newtype Industries says BARBARA can run on smartphones or tablets used in the field and is designed so that fire-request conversations can be reviewed within 5 minutes.",
+      "quote": "회사 측은 현장에서 사용하는 스마트폰이나 태블릿에 프로그램을 적용할 수 있으며, 사격 요청 과정에서 이뤄지는 대화를 5분 안에 확인할 수 있도록 설계했다고 설명한다.",
+      "category": "product",
+      "event_date": "",
+      "source_id": "s5",
+      "corroborated_by": [
+        "m.nownews.seoul.co.kr"
+      ]
+    },
+    {
+      "id": "f14",
+      "claim": "Newtype Industries, which spun off from Myungshin Information & Communication in June 2025, recently raised a seed investment from Bluepoint Partners, The Next Lab, and Myungshin Information & Communication (reported December 2025).",
+      "quote": "지난 6월 명신정보통신에서 스핀오프한 뉴타입은 최근 블루포인트파트너스, 더넥스트랩, 명신정보통신에서 시드투자를 유치했다.",
+      "category": "funding",
+      "event_date": "2025-12",
+      "source_id": "s2",
+      "corroborated_by": [
+        "platum.kr",
+        "unicornfactory.co.kr"
+      ]
+    },
+    {
+      "id": "f28",
+      "claim": "According to Platum (2025-12-23), defense AI startup Newtype Industries raised a seed round from deep-tech accelerator Bluepoint Partners, The Next Lab, and Myungshin Information & Communication.",
+      "quote": "방위산업 AI 스타트업 뉴타입인더스트리즈가 딥테크 액셀러레이터 블루포인트파트너스와 더넥스트랩, 명신정보통신으로부터 시드 투자를 유치했다.",
+      "category": "funding",
+      "event_date": "2025-12-23",
+      "source_id": "s3",
+      "corroborated_by": [
+        "platum.kr"
+      ]
+    },
+    {
+      "id": "f29",
+      "claim": "The amount of Newtype Industries' seed investment and its valuation were not disclosed.",
+      "quote": "투자금과 기업가치는 비공개다.",
+      "category": "funding",
+      "event_date": "2025-12-23",
+      "source_id": "s3",
+      "corroborated_by": [
+        "platum.kr"
+      ]
+    },
+    {
+      "id": "f70",
+      "claim": "Cho said a system like Newtype's only proves itself when soldiers use it under real pressure, and that no one has more recent artillery combat experience than Ukrainian soldiers.",
+      "quote": "A system like ours only proves itself when soldiers use it under real pressure, and no one has more recent combat experience in artillery than Ukrainian soldiers.",
+      "category": "quote",
+      "event_date": "",
+      "source_id": "s9",
+      "corroborated_by": [
+        "thediplomat.com"
+      ]
+    },
+    {
+      "id": "f18",
+      "claim": "Founder and CEO Cho Sengwon could develop the solution because he served 12 years as an artillery officer.",
+      "quote": "창업자인 조성원 대표가 이런 솔루션을 개발할 수 있었던 건 그가 포병 장교로 12년간 복무한 경험이 있어서다.",
+      "category": "people",
+      "event_date": "",
+      "source_id": "s2",
+      "corroborated_by": [
+        "unicornfactory.co.kr"
+      ]
+    },
+    {
+      "id": "f20",
+      "claim": "Bluepoint Partners led Newtype Industries' seed round, and its senior investment officer Choi Won-ki said the founding team has strong field understanding as well as AI technology.",
+      "quote": "이번 투자를 주도한 최원기 블루포인트파트너스 수석 심사역은 \"방산 솔루션 특성상 현장에 대한 이해도가 무엇보다 중요하다\"며 \"조 대표와 창업팀은 가장 중요한 현장 이해도가 충분하고, 여기에 AI 기술력도 확보하고 있어 성장 가능성이 높다고 판단했다\"고 말했다.",
+      "category": "quote",
+      "event_date": "2025-12",
+      "source_id": "s2",
+      "corroborated_by": [
+        "unicornfactory.co.kr"
+      ]
+    },
+    {
+      "id": "f21",
+      "claim": "Bluepoint's Choi Won-ki said that Newtype's products and services being based on field understanding from the planning stage is its strength.",
+      "quote": "최 수석은 \"제품·서비스가 기획 단계부터 현장 이해도를 기반으로 하고 있다는 건 뉴타입의 강점\"이라고 부연했다.",
+      "category": "quote",
+      "event_date": "2025-12",
+      "source_id": "s2",
+      "corroborated_by": [
+        "unicornfactory.co.kr"
+      ]
+    },
+    {
+      "id": "f73",
+      "claim": "Cho said there was no playbook for a Korean defense startup in Ukraine, so Newtype had to build trust step by step.",
+      "quote": "There was no playbook for a Korean defense startup in Ukraine, so we had to build trust step by step.",
+      "category": "quote",
+      "event_date": "",
+      "source_id": "s9",
+      "corroborated_by": [
+        "thediplomat.com"
+      ]
+    },
+    {
+      "id": "f74",
+      "claim": "Cho said the work became possible by partnering with Reaktion Group and by first listening to what Ukrainian units needed instead of just pitching a product.",
+      "quote": "What made it possible was working with a trusted and capable partner, Reaktion Group, and starting by listening to what Ukrainian units actually need instead of just pitching a product.",
+      "category": "quote",
+      "event_date": "",
+      "source_id": "s9",
+      "corroborated_by": [
+        "thediplomat.com"
+      ]
+    },
+    {
+      "id": "f76",
+      "claim": "Cho said that as the first Korean defense startup active in Ukraine, Newtype was an obvious target for disinformation even though it is a small company.",
+      "quote": "As the first Korean defense startup active in Ukraine, we were an obvious target, even though we are a small company.",
+      "category": "quote",
+      "event_date": "2026-11-19",
+      "source_id": "s9",
+      "corroborated_by": [
+        "thediplomat.com"
+      ]
+    },
+    {
+      "id": "f77",
+      "claim": "Cho said the incident shows that Russia has noticed Newtype's system, BARBARA, and wants it gone from the battlefield.",
+      "quote": "This incident also tells me that Russia has noticed our system and wants it gone from the battlefield.",
+      "category": "quote",
+      "event_date": "2026-11-19",
+      "source_id": "s9",
+      "corroborated_by": [
+        "thediplomat.com"
+      ]
+    },
+    {
+      "id": "f55",
+      "claim": "Newtype Industries is expanding BARBARA from artillery command-and-control software to linking artillery and attack drones within a single fire system.",
+      "quote": "처음에는 포병 지휘통제 소프트웨어로 개발했지만 최근에는 기존 포병과 공격용 드론을 하나의 화력체계 안에서 연동하는 방향으로 확장하고 있다.",
+      "category": "vision",
+      "event_date": "2026-08",
+      "source_id": "s5",
+      "corroborated_by": [
+        "m.nownews.seoul.co.kr"
+      ]
+    },
+    {
+      "id": "f81",
+      "claim": "Cho said Ukraine remains at the center of Newtype's work in Europe, and that the company sees the Nordic and Baltic countries as natural partners.",
+      "quote": "Ukraine remains at the center of our work in Europe, and we see the Nordic and Baltic countries, which face a similar threat, as natural partners.",
+      "category": "vision",
+      "event_date": "",
+      "source_id": "s9",
+      "corroborated_by": [
+        "thediplomat.com"
+      ]
+    },
+    {
+      "id": "f36",
+      "claim": "Newtype Industries uses US military rapid-prototyping policies to speed up procurement entry, and aims for US military fielding and Korean military market entry in 2026.",
+      "quote": "미군 신속시범 정책을 활용해 조달 진입을 가속화하고 있으며, 2026년 미군 전력화와 한국군 시장진입을 목표로 한다.",
+      "category": "vision",
+      "event_date": "2026",
+      "source_id": "s3",
+      "corroborated_by": [
+        "militarnyi.com",
+        "platum.kr"
+      ]
+    },
+    {
+      "id": "f25",
+      "claim": "Newtype Industries is preparing 3 to 4 additional defense AI solutions.",
+      "quote": "뉴타입 \"방산AI 솔루션 3~4가지 추가 준비 중\"",
+      "category": "product",
+      "event_date": "2025-12",
+      "source_id": "s2",
+      "corroborated_by": [
+        "unicornfactory.co.kr"
+      ]
+    },
+    {
+      "id": "f80",
+      "claim": "Cho said he spoke at Land Warfare Europe in Vilnius on November 17, 2026, and would speak at the UK-UA Defence Tech Forum at RUSI in London on November 20, 2026.",
+      "quote": "I spoke at at Land Warfare Europe in Vilnius on November 17, and will speak at the UK-UA Defence Tech Forum at RUSI in London on November 20.",
+      "category": "event",
+      "event_date": "2026-11",
+      "source_id": "s9",
+      "corroborated_by": [
+        "thediplomat.com"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "n": 1,
+      "url": "https://news.mtn.co.kr/news-detail/2026042215125572026",
+      "title": "육사 출신 포대장이 창업한 방산 AI...미군이 왜 먼저 선택했나 [CEO리포트]",
+      "publisher": "MTN 머니투데이방송",
+      "published": "2026-04-23",
+      "tier": "tier3",
+      "sha256": "ce41b105d429816f339d078d69144c4084d6e11fe2b92531b805454de582346d"
+    },
+    {
+      "id": "s5",
+      "n": 2,
+      "url": "https://m.nownews.seoul.co.kr/news/international/otherCountry/2026/08/12/20260812601013",
+      "title": "우크라군이 직접 써보는 ‘한국산 AI’...포탄 더 빨리 쏘나 [밀리터리+]",
+      "publisher": "나우뉴스",
+      "published": "2026-08-12",
+      "tier": "tier3",
+      "sha256": "45e179195e08e006ef897853467c87f80c01bc669709a1d8d53cca9ba1aec16e"
+    },
+    {
+      "id": "s9",
+      "n": 3,
+      "url": "https://thediplomat.com/2026/11/korean-defense-start-up-continues-its-work-in-ukraine/",
+      "title": "Korean Defense Start-up Continues Its Work in Ukraine",
+      "publisher": "The Diplomat",
+      "published": "2026-11-19",
+      "tier": "tier3",
+      "sha256": "312eb986c5fba18f842ee88d29581aa160d6c1e63e58195f133cc5eec33525c8"
+    },
+    {
+      "id": "s10",
+      "n": 4,
+      "url": "https://militarnyi.com/en/news/south-korean-company-halts-military-ai-trials-in-ukraine-amid-diplomatic-dispute/",
+      "title": "South Korean Company Halts Military AI Trials in Ukraine Amid Diplomatic Dispute",
+      "publisher": "Militarnyi",
+      "published": "2026-11-06",
+      "tier": "tier3",
+      "sha256": "8a67e0de2b2b71aab78abdefe504caa75f282da54beddaf72193a9900ac19549"
+    },
+    {
+      "id": "s2",
+      "n": 5,
+      "url": "https://www.unicornfactory.co.kr/article/2025122418324169566",
+      "title": "\"軍 지휘 돕는 AI\"...장교가 창업한 K-방산 스타트업에 뭉칫돈",
+      "publisher": "유니콘팩토리",
+      "published": "2025-12-27",
+      "tier": "tier3",
+      "sha256": "d737f4e1aff30c3a385c97b60e32f88d10ec34a1e744649d03bdb4de25de7e9e"
+    },
+    {
+      "id": "s3",
+      "n": 6,
+      "url": "https://platum.kr/archives/277909",
+      "title": "방산 AI 스타트업 '뉴타입인더스트리즈', 블루포인트 등에서 시드 투자 유치 - 플래텀",
+      "publisher": "스타트업 생태계의 모든 것 \\'플래텀(Platum)\\'",
+      "published": "2025-12-23",
+      "tier": "tier1",
+      "sha256": "4073bb597aa1d2aab6b398897285cc77b8a2ed41e72b0ab183a4668a1339e9ea"
+    }
+  ],
+  "media": [
+    {
+      "id": "m1",
+      "kind": "image",
+      "src": "media/2026-11-27/m1.jpg",
+      "width": 550,
+      "height": 366,
+      "alt": "육사 출신 포대장이 창업한 방산 AI...미군이 왜 먼저 선택했나 [CEO리포트]",
+      "credit": "Image: MTN 머니투데이방송",
+      "license": "© MTN 머니투데이방송 - used with attribution, linked to source",
+      "source_url": "https://news.mtn.co.kr/news-detail/2026042215125572026",
+      "origin": "press",
+      "title": "육사 출신 포대장이 창업한 방산 AI...미군이 왜 먼저 선택했나 [CEO리포트]"
+    },
+    {
+      "id": "m2",
+      "kind": "image",
+      "src": "media/2026-11-27/m2.jpg",
+      "width": 1200,
+      "height": 574,
+      "alt": "사진=뉴타입인더스트리즈 홈페이지",
+      "credit": "Image: 유니콘팩토리",
+      "license": "© 유니콘팩토리 - used with attribution, linked to source",
+      "source_url": "https://www.unicornfactory.co.kr/article/2025122418324169566",
+      "origin": "press",
+      "title": "\"軍 지휘 돕는 AI\"...장교가 창업한 K-방산 스타트업에 뭉칫돈"
+    },
+    {
+      "id": "m4",
+      "kind": "image",
+      "src": "media/2026-11-27/m4.jpg",
+      "width": 1600,
+      "height": 900,
+      "alt": "우크라군이 직접 써보는 ‘한국산 AI’...포탄 더 빨리 쏘나 [밀리터리+]",
+      "credit": "Image: 나우뉴스",
+      "license": "© 나우뉴스 - used with attribution, linked to source",
+      "source_url": "https://m.nownews.seoul.co.kr/news/international/otherCountry/2026/08/12/20260812601013",
+      "origin": "press",
+      "title": "우크라군이 직접 써보는 ‘한국산 AI’...포탄 더 빨리 쏘나 [밀리터리+]"
+    },
+    {
+      "id": "m5",
+      "kind": "image",
+      "src": "media/2026-11-27/m5.jpg",
+      "width": 660,
+      "height": 371,
+      "alt": "우크라이나군 병사들이 전장에서 태블릿으로 표적 정보를 확인하고 사격지휘를 수행하는 모습을 표현한 합성 이미지. 배경에는 포병 화력이 발사되는 장면을 함께 담았다. 기사 이해를 돕기 위한 AI 제작 이미지.",
+      "credit": "Image: 나우뉴스",
+      "license": "© 나우뉴스 - used with attribution, linked to source",
+      "source_url": "https://m.nownews.seoul.co.kr/news/international/otherCountry/2026/08/12/20260812601013",
+      "origin": "press",
+      "title": "우크라군이 직접 써보는 ‘한국산 AI’...포탄 더 빨리 쏘나 [밀리터리+]"
+    },
+    {
+      "id": "m7",
+      "kind": "image",
+      "src": "media/2026-11-27/m7.jpg",
+      "width": 660,
+      "height": 421,
+      "alt": "우크라이나 해군이 운용하는 튀르키예산 바이락타르 TB2 무인기. 정찰·표적 탐지와 공격 임무에 투입할 수 있는 중고도 장기체공 무인기로, 우크라이나 전쟁에서도 활용됐다. 밀리터리랜드 캡처",
+      "credit": "Image: 나우뉴스",
+      "license": "© 나우뉴스 - used with attribution, linked to source",
+      "source_url": "https://m.nownews.seoul.co.kr/news/international/otherCountry/2026/08/12/20260812601013",
+      "origin": "press",
+      "title": "우크라군이 직접 써보는 ‘한국산 AI’...포탄 더 빨리 쏘나 [밀리터리+]"
+    }
+  ],
+  "factcheck": {
+    "passed": false,
+    "rounds": 4,
+    "checked_at": "2026-11-27T17:07:19+09:00",
+    "facts_verified": 94,
+    "facts_rejected": 0,
+    "sources_used": 6,
+    "sources_fetched": 7,
+    "llm_verdict": "fail",
+    "summary": "Fail: I found four blockers and five minor issues. Most of the deck matches its cited facts, but two slides lean on a Militarnyi report (Nov 6, 2026) that passed along The Diplomat's interview, which The Diplomat later said was fabricated.\n\n**Blockers:**\n- **Slide 1:** The North Korean POW and ambassador-recall \"backdrop\" is stated as fact. Its only source is that Militarnyi report, which may be repeating disinformation.\n- **Slide 4:** \"Canadian\" Reaktion Group \"arranged cooperation with two brigades\" also rests only on that report. Cho's genuine Nov 19 statements to The Diplomat do confirm the Reaktion partnership, so those can be cited instead.\n- **Slide 5:** \"88 years unchanged\" is the company's own description, but the stats slide presents it as fact. Only the market size is labeled as a company estimate, which makes the 88-year figure look verified.\n- **Slide 9:** The \"2026 US fielding and Korean market entry\" goal comes from a December 2025 report. It's shown as current with no evidence it still stands or was met.\n\n**Minor:**\n- Slide 3 states the 88-year claim without attribution.\n- Slide 3's English says a target \"looks civilian\"; the source says the target appears to be in a civilian area.\n- Slide 4's US Army testing dates from April 2026 but carries no date.\n- Slide 9's \"3 to 4 additional solutions\" dates from December 2025 but carries no date.\n- Slide 6 dates the seed round to December 2025, when the round was only announced then.\n\nEverything else is supported by the cited facts. That includes the quote on slide 7 and the timeline dates for the spin-off (June 2025), the US entity (November 2025) and the two Diplomat articles (Nov 5 and Nov 19).",
+    "issues": [
+      {
+        "slide": 1,
+        "lang": "both",
+        "text": "배경: 북한군 포로 정보 공개를 둘러싼 한-우크라 갈등 / Backdrop: a Korea–Ukraine row over disclosure of North Korean POWs",
+        "problem": "unsupported",
+        "severity": "blocker",
+        "explanation": "The only source for the POW handover and ambassador recall (f94) is the Militarnyi piece of 2026-11-06. That piece passed along the Diplomat article that was later shown to be fabricated. The slide states this backdrop as confirmed fact with no attribution, so it may be repeating disinformation. The English 'disclosure of North Korean POWs' also misstates f94, which is about publicly disclosing information about the prisoner handover.",
+        "fix": "Attribute it and narrow it, e.g. 'Militarnyi reported Seoul accused Zelensky of publicly disclosing the handover of two North Korean POWs and recalled its ambassador.' Or drop it and use f75 instead (Cho: adversaries are using 'diplomatic differences' between the two countries)."
+      },
+      {
+        "slide": 4,
+        "lang": "both",
+        "text": "캐나다 컨설팅사 리액션 그룹이 우크라이나군 2개 여단과의 협력을 주선했다. / Canadian consulting firm Reaktion Group arranged cooperation with two Ukrainian brigades.",
+        "problem": "unsupported",
+        "severity": "blocker",
+        "explanation": "f89 comes from the Militarnyi report that relayed the fabricated Diplomat interview, so neither 'Canadian' nor 'arranged cooperation with two brigades' is reliably sourced. f50 only says Newtype had contact with two Ukrainian units and got initial feedback from a combat brigade. Reaktion Group is confirmed as a partner by Cho in the genuine Diplomat follow-up (f65/f74), but those facts are not cited on this slide.",
+        "fix": "Rewrite using reliable facts and cite f65/f74 plus f50: '조 대표는 키이우에 팀을 둔 파트너 리액션 그룹과 긴밀히 협력한다고 밝혔다. 뉴타입은 우크라이나군 2개 부대와 접촉했다.' / 'Cho says Newtype works closely with partner Reaktion Group, which has a team in Kyiv; Newtype has been in contact with two Ukrainian units.'"
+      },
+      {
+        "slide": 5,
+        "lang": "both",
+        "text": "88년 변화 없던 전술 음성통신 체계 / 88 years Tactical voice comms left unchanged",
+        "problem": "overclaim",
+        "severity": "blocker",
+        "explanation": "f32 is the company's own description of its solution, not a verified historical fact. The slide labels the market size as a company estimate, which makes the 88-year figure look independently verified.",
+        "fix": "Attribute it, e.g. '88년 회사가 말하는 변화 없던 전술 음성통신 체계' / '88 years: how long tactical voice comms went unchanged, per the company'."
+      },
+      {
+        "slide": 9,
+        "lang": "both",
+        "text": "목표: 2026년 미군 전력화·한국군 시장 진입 / Goal: US military fielding and Korean market entry in 2026",
+        "problem": "stale",
+        "severity": "blocker",
+        "explanation": "This goal comes from a December 2025 report (f36). Today is 2026-11-27, and no cited fact says the goal still stands or has been met. Presenting it as the current goal with a month left in the year is stale and potentially misleading.",
+        "fix": "Date it as a past plan: '2025년 12월 당시 목표: 2026년 미군 전력화·한국군 시장 진입' / 'As of Dec 2025, the company aimed for US fielding and Korean market entry in 2026.' Or replace it with a current fact (e.g. the RUSI London forum on Nov 20, f80)."
+      },
+      {
+        "slide": 3,
+        "lang": "both",
+        "text": "88년간 변화 없던 전술 음성통신을 디지털로 옮기는 셈이다. / It digitizes a tactical voice system unchanged for 88 years.",
+        "problem": "overclaim",
+        "severity": "minor",
+        "explanation": "Per f32, the 88-year characterization is how Newtype describes its own solution. The slide states it as fact.",
+        "fix": "'회사 측은 88년간 변화 없던 전술 음성통신을 디지털로 바꾸는 솔루션이라고 설명한다' / 'The company describes it as digitizing a tactical voice system it says went unchanged for 88 years.'"
+      },
+      {
+        "slide": 3,
+        "lang": "en",
+        "text": "Warns when coordinates may be wrong or a target looks civilian",
+        "problem": "translation_mismatch",
+        "severity": "minor",
+        "explanation": "f47 and the Korean text say the target appears to be in a civilian area. That is different from the target itself looking civilian.",
+        "fix": "'Warns when coordinates may be wrong or a target appears to be in a civilian area'"
+      },
+      {
+        "slide": 4,
+        "lang": "both",
+        "text": "창업 5개월 만에 미국 법인, 미 육군 적용 테스트 / US entity five months after founding; US Army testing",
+        "problem": "stale",
+        "severity": "minor",
+        "explanation": "f6 describes US Army testing as of April 2026, seven months before this deck. With no date, it reads as current.",
+        "fix": "Add the date: '2026년 4월 기준 미 육군 적용 테스트' / 'US Army testing (as of April 2026)'."
+      },
+      {
+        "slide": 9,
+        "lang": "both",
+        "text": "방산 AI 솔루션 3~4가지 추가 준비 중 / Preparing 3 to 4 additional defense AI solutions",
+        "problem": "stale",
+        "severity": "minor",
+        "explanation": "f25 is from December 2025 but is presented as current.",
+        "fix": "Add '(2025년 12월 기준)' / '(as of Dec 2025)'."
+      },
+      {
+        "slide": 6,
+        "lang": "both",
+        "text": "2025년 12월 블루포인트파트너스·더넥스트랩·명신정보통신 시드 투자 / December 2025 Seed from Bluepoint Partners, The Next Lab, Myungshin",
+        "problem": "wrong_date",
+        "severity": "minor",
+        "explanation": "f14/f28 say only that the round was 'recently' raised, as reported in December 2025. The closing date is not given.",
+        "fix": "'2025년 12월 시드 투자 유치 발표' / 'December 2025 Seed round announced'."
+      }
+    ],
+    "deterministic_issues": []
+  },
+  "generator": {
+    "agent": "newz",
+    "version": "1.0.0",
+    "backend": "cli",
+    "model": "claude-opus-5-5"
+  }
+}

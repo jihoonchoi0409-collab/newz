@@ -1,0 +1,89 @@
+{
+  "site": {
+    "title": "newz",
+    "tagline": {
+      "ko": "AI · 방산 스타트업, 하루 한 장",
+      "en": "AI & defense startups, one deck a day"
+    },
+    "built_at": "2026-11-29T01:10:23+09:00",
+    "publish_time": "08:45",
+    "repo": "jihoonchoi0409-collab/news-card"
+  },
+  "decks": [
+    {
+      "id": "2026-11-28",
+      "date": "2026-11-28",
+      "type": "funding",
+      "sector": [
+        "ai"
+      ],
+      "region": [
+        "global"
+      ],
+      "companies": [
+        {
+          "name": "Sierra",
+          "name_ko": "시에라",
+          "website": "sierra.ai"
+        }
+      ],
+      "title": {
+        "ko": "반년 만에 몸값 2배, 시에라",
+        "en": "Sierra Hits $30B: Value Doubled Within Six Months"
+      },
+      "summary": {
+        "ko": "브렛 테일러와 클레이 베이버가 세운 AI 고객응대 에이전트 기업 시에라가 2026년 11월 23일 기업가치 300억 달러에 17억5000만 달러 규모 시리즈F를 발표했다.",
+        "en": "On November 23, 2026, Sierra, the AI customer-service agent company co-founded by Bret Taylor and Clay Bavor, announced a $1.75 billion Series F at a $30 billion valuation."
+      },
+      "hashtags": [
+        "시에라",
+        "Sierra",
+        "AI에이전트",
+        "브렛테일러",
+        "시리즈F",
+        "스타트업투자",
+        "고객서비스AI"
+      ],
+      "cover": "media/2026-11-28/m1.jpg",
+      "verified": true
+    },
+    {
+      "id": "2026-11-27",
+      "date": "2026-11-27",
+      "type": "founder_story",
+      "sector": [
+        "defense",
+        "ai"
+      ],
+      "region": [
+        "kr"
+      ],
+      "companies": [
+        {
+          "name": "Newtype Industries",
+          "name_ko": "뉴타입인더스트리즈",
+          "website": ""
+        }
+      ],
+      "title": {
+        "ko": "포대장의 AI, 우크라 전장에 가다",
+        "en": "An Artillery Officer's AI Goes to Ukraine's Front"
+      },
+      "summary": {
+        "ko": "12년간 포병 장교로 복무한 조성원 대표의 AI 사격지휘 소프트웨어 바바라가 우크라이나 전장 시험에 이어 2026년 11월 날조 기사라는 정보전까지 겪은 이야기.",
+        "en": "Cho Sengwon, an artillery officer for 12 years, built the AI fire-control software BARBARA, tested it in Ukraine, and in November 2026 found his company the subject of a fabricated interview."
+      },
+      "hashtags": [
+        "뉴타입인더스트리즈",
+        "방산스타트업",
+        "국방AI",
+        "우크라이나",
+        "허위정보",
+        "창업스토리",
+        "바바라"
+      ],
+      "cover": "media/2026-11-27/m2.jpg",
+      "verified": false
+    }
+  ]
+}
